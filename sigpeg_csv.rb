@@ -4,6 +4,9 @@
 # Ce script extrait des données du Système d'information géoscientifique pétrolier et gazier (SIGPEG) du ministère de l'Énergie et des Ressources naturelles du Québec
 # Il s'agit de données sur tous les puits forés au Québec depuis 1860 pour exploration ou exploitation de gaz naturel ou de pétrole
 
+require 'rubygems'
+require 'bundler/setup'
+
 require "csv"
 require "nokogiri"
 require "open-uri"
