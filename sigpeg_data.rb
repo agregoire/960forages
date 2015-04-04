@@ -4,6 +4,12 @@
 # Ce script extrait des données du Système d'information géoscientifique pétrolier et gazier (SIGPEG) du ministère de l'Énergie et des Ressources naturelles du Québec
 # Il s'agit de données sur tous les puits forés au Québec depuis 1860 pour exploration ou exploitation de gaz naturel ou de pétrole
 
+# Modifié par Alexandre Grégoire pour:
+# - télécharger l'historique de chaque forage
+# - exporter le tout sous forme d'un array de hash sérialisés avec Marshal
+#
+# Après avoir roulé ce script, on doit rouler le script "sigpeg_jsonify.rb" pour convertir le tout en json
+
 require 'rubygems'
 require 'bundler/setup'
 
@@ -13,7 +19,7 @@ require "open-uri"
 require "watir-webdriver"
 
 tout = [] # Création d'une matrice pour accueillir la totalité des résultats
-fichier = "sigpeg.csv" # Déclaration du nom du fichier dans lequel seront écrit nos résultats
+fichier = "sigpeg.dat" # Déclaration du nom du fichier dans lequel seront écrit nos résultats
 url1 = "http://geoegl.msp.gouv.qc.ca/Services/glo/V5/gloServeurHTTP.php?type=gps&cle=public&texte=GPS%20"
 url2 = "&epsg=4326&format=xml"
 
@@ -154,6 +160,20 @@ listePuits.each do |noPuits|
 
 		end
 
+		# byebug
+
+		# Après, on cherche la table "Historique des activités..."
+		# fiche.css("table")[59].css("tbody tr")
+		historiques = fiche.css("table")[59].css("tbody tr")
+		if (historiques.count > 2) && (historiques[0].css("td")[1].text == "Activité")
+			donneesPuits["Historique"] = []
+
+			historiques[2..-1].each do |activite|
+				details = activite.css("td")
+				donneesPuits["Historique"] << {:type => details[1].text, :debut => details[2].text, :fin => details[3].text}
+			end
+		end
+
 		# On se sert enfin du service de géolocalisation [GLO] du ministère de la Sécurité publique (http://geoegl.msp.gouv.qc.ca/accueil/)
 		# pour identifier dans quelles municipalité, région et localité se trouve chaque puits à l'aide des coordonnées décimales calculées plus haut
 
@@ -285,9 +305,6 @@ end
 
 # Quand les données de tous les puits sont extraites, on les inscrit dans un fichier CSV
 
-CSV.open(fichier, "wb") do |csv|
-  csv << tout.first.keys
-  tout.each do |hash|
-    csv << hash.values
-  end
+File.open(fichier, "wb") do |file|
+	file.puts Marshal::dump(tout)
 end
