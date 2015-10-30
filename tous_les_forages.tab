@@ -1,0 +1,980 @@
+number	name	region	latitude	longitude	company	start	end
+A001	Montréal No 1	A-Basses-Terres (sols consolidés)	45.278361	-74.011833	Parco Drilling and Exploration Ltd.	1954	1955
+A002	Yamachiche No 1	A-Basses-Terres (sols consolidés)	46.349472	-72.782056	Albert Bédard	1953	1954
+A003	Bald Mountain, Batiscan No 1	A-Basses-Terres (sols consolidés)	46.472806	-72.265111	Bald Mountain Oil Co.	1956	1957
+A003-R1	Bald Mountain, Batiscan No 1	A-Basses-Terres (sols consolidés)	46.472806	-72.265111	Foragaz Inc.	2002	2002
+A004	Bald Mountain, Batiscan No 2	A-Basses-Terres (sols consolidés)	46.470306	-72.262056	Bald Mountain Oil Co.	1957	1957
+A005	Bald Mountain, Batiscan No 3	A-Basses-Terres (sols consolidés)	46.477806	-72.272333	Robert McMaster & Sons	1957	1957
+A006	Bald Mountain, Batiscan No 4	A-Basses-Terres (sols consolidés)	46.475583	-72.262889	Robert McMaster & Sons	1957	1957
+A007	Bald Mountain, Batiscan No 5	A-Basses-Terres (sols consolidés)	46.472528	-72.268722	Robert McMaster & Sons	1957	1957
+A008	Bald Mountain, Berthierville No 1	A-Basses-Terres (sols consolidés)	46.041417	-73.180139	Bald Mountain Oil Co.	1956	1957
+A009	Bald Mountain, Cap-Santé No 1	A-Basses-Terres (sols consolidés)	46.678361	-71.783722	Logan Brothers Diamond Drilling Ltd.	1957	1957
+A010	Bald Mountain, Cap-Santé No 2	A-Basses-Terres (sols consolidés)	46.696694	-71.787611	Antonio Dubé	1958	1958
+A011	Bald Mountain, La Pérade No 2	A-Basses-Terres (sols consolidés)	46.608083	-72.207889	Antonio Dubé	1957	1957
+A012	Bald Mountain, Louiseville No 1	A-Basses-Terres (sols consolidés)	46.231972	-72.941778	Logan Brothers Diamond Drilling Ltd.	1957	1957
+A013	Bald Mountain, Louiseville No 2	A-Basses-Terres (sols consolidés)	46.231972	-72.941778	Bald Mountain Oil Co.	1957	1958
+A014	Bald Mountain, Saint-Roch No 1	A-Basses-Terres (sols consolidés)	45.932806	-73.17875	Logan Brothers Diamond Drilling Ltd.	1957	1957
+A015	Bald Mountain, Portneuf No 1	A-Basses-Terres (sols consolidés)	46.683083	-71.9215	Logan Brothers Diamond Drilling Ltd.	1957	1957
+A016	Bald Mountain, Portneuf No 2	A-Basses-Terres (sols consolidés)	46.682806	-71.921222	Robert McMaster & Sons	1957	1957
+A017	Bald Mountain, Sainte-Geneviève-de-Batiscan No 2	A-Basses-Terres (sols consolidés)	46.518083	-72.345389	Antonio Dubé	1958	1958
+A018	Bergeron	A-Basses-Terres (sols consolidés)	46.283333	-72.470944		1889	1889
+A019	Cadbury & Fry	A-Basses-Terres (sols consolidés)	45.539194	-73.582083		1939	1939
+A020	Canadian Natural Gas No 1	A-Basses-Terres (sols consolidés)	45.720306	-72.955667	W.H. Lauffen	1910	1910
+A021	Canadian Natural Gas No 2	A-Basses-Terres (sols consolidés)	45.718917	-72.952889	Edmond Côté	1914	1914
+A022	Canadian Natural Gas No 3	A-Basses-Terres (sols consolidés)	45.70225	-72.935111	Edmond Côté	1914	1914
+A023	Canadian Natural Gas No 4	A-Basses-Terres (sols consolidés)	45.728639	-72.999194	Edmond Côté	1917	1917
+A024	Canadian Natural Gas No 5	A-Basses-Terres (sols consolidés)	45.716417	-72.957889	Edmond Côté	1914	1914
+A025	Canadian Seaboard, Saint-Grégoire No 1	A-Basses-Terres (sols consolidés)	46.270306	-72.500667	Canadian Seabord Oil & Gas Ltd.	1934	1934
+A026	Canadian Seaboard, Saint-Gérard No 1	A-Basses-Terres (sols consolidés)	45.995028	-72.822611	Drilling & Exploration Co.	1931	1933
+A027	Canadian Seaboard, Sainte-Angèle No 1	A-Basses-Terres (sols consolidés)	46.318639	-72.485667	Alberta Gas and Fuel Co.	1933	1933
+A028	Canso Saint-Maurice, Saint-Léon No 1	A-Basses-Terres (sols consolidés)	46.301694	-72.945389	Carroll Drilling Co. Ltd.	1957	1957
+A029	Caprive No 2, Trois-Rivières	A-Basses-Terres (sols consolidés)	46.358361	-72.579833	Ranch Drilling Ltd	1959	1959
+A030	Caprive No 3, Trois-Rivières	A-Basses-Terres (sols consolidés)	46.357806	-72.577333	Inspiration Mining and Development Co. Ltd.	1962	1962
+A031	Cartier Natural Gas No 5	A-Basses-Terres (sols consolidés)	45.942306	-73.249028		1934	1935
+A032	Cartier Natural Gas, Saint-Hubert No 1	A-Basses-Terres (sols consolidés)	45.513083	-73.431806	Star Drilling Machine Co.	1934	1935
+A033	Madeleine No 1	A-Basses-Terres (sols consolidés)	46.375306	-72.500944	St. Lawrence Drilling Co.	1956	1956
+A034	Madeleine No 2	A-Basses-Terres (sols consolidés)	46.374472	-72.499278	St. Lawrence Drilling Co.	1956	1957
+A035	Laduboro Verchères Saint-Pierre No 3, Yamachiche	A-Basses-Terres (sols consolidés)	46.283639	-72.825111	James Drilling Ltd	1961	1961
+A036	Coupal No 1	A-Basses-Terres (sols consolidés)	45.350833	-73.36675	Wilfrid Tremblay	1953	1954
+A037	Nicolet No 1	A-Basses-Terres (sols consolidés)	46.24425	-72.549278	Inspiration Mining and Development Co. Ltd.	1956	1956
+A038	Eastern Canada No 1	A-Basses-Terres (sols consolidés)	45.245583	-73.252917	Rawlings Drilling Co.	1954	1954
+A039	Eastern Canada No 2	A-Basses-Terres (sols consolidés)	45.16225	-73.329583	Rawlings Drilling Co.	1954	1955
+A040	Eastern Canada No 3	A-Basses-Terres (sols consolidés)	45.128639	-73.334306	Rawlings Drilling Co.	1954	1955
+A041	Eastern Canada No 4	A-Basses-Terres (sols consolidés)	45.27725	-73.184028	Rawlings Drilling Co.	1956	1957
+A042	Eastern Canada No 5	A-Basses-Terres (sols consolidés)	45.208917	-73.110139	Rawlings Drilling Co.	1956	1957
+A043	Eastern Canada Gas & Oil No 6, Saint-Blaise	A-Basses-Terres (sols consolidés)	45.208639	-73.322639	Logan Brothers Diamond Drilling Ltd.	1958	1958
+A044	Eastern Canada Gas & Oil No 7, Saint-Jean	A-Basses-Terres (sols consolidés)	45.268917	-73.25125	Logan Brothers Diamond Drilling Ltd.	1958	1958
+A045	Eastern Canada Gas & Oil No 9, Sainte-Anne-de-Sabrevois	A-Basses-Terres (sols consolidés)	45.258361	-73.234583	Logan Brothers Diamond Drilling Ltd.	1958	1958
+A046	Ferme expérimentale de l'Assomption	A-Basses-Terres (sols consolidés)	45.811417	-73.430139		1929	1929
+A047	Forest	A-Basses-Terres (sols consolidés)	46.225306	-72.489		1885	1885
+A048	Gélinas No 2	A-Basses-Terres (sols consolidés)	46.358639	-72.470833	Germain Gélinas	1954	1955
+A049	Gélinas No 3	A-Basses-Terres (sols consolidés)	46.356444	-72.468361	Germain Gélinas	1955	1956
+A050	Gélinas No 4	A-Basses-Terres (sols consolidés)	46.356972	-72.469	Germain Gélinas	1962	1962
+A051	Fortierville No 1	A-Basses-Terres (sols consolidés)	46.483917	-71.981222	Connors Drilling Co.	1943	1943
+A052	Goyette	A-Basses-Terres (sols consolidés)	45.536694	-73.599583		1942	1942
+A053	Lincoln No 1	A-Basses-Terres (sols consolidés)	45.493083	-73.58375		1944	1945
+A054	Sweet Grass, Yamachiche No 4	A-Basses-Terres (sols consolidés)	46.338639	-72.813722	Robert McMaster & Sons	1955	1955
+A055	Guillemette	A-Basses-Terres (sols consolidés)	46.225583	-72.487056		1873	1873
+A056	Huttes militaires de Longueuil	A-Basses-Terres (sols consolidés)	45.543917	-73.500139	Wallace Bell Company Ltd.	1911	1911
+A057	Quonto International No 1, Saint-Vincent-de-Paul	A-Basses-Terres (sols consolidés)	45.645861	-73.659583	Logan Brothers Diamond Drilling Ltd.	1957	1958
+A058	Quonto International No 1, Mascouche	A-Basses-Terres (sols consolidés)	45.743917	-73.584306	Logan Brothers Diamond Drilling Ltd.	1957	1958
+A059	Canso Intercity, Pointe-du-Lac No 1a	A-Basses-Terres (sols consolidés)	46.288194	-72.683167	Ranch Drilling Ltd	1956	1956
+A060	Canso Saint-Maurice, Pointe-du-Lac No 1b	A-Basses-Terres (sols consolidés)	46.288417	-72.683583	Carroll Drilling Co. Ltd.	1957	1957
+A061	Laduboro No 1, La Baie Yamaska	A-Basses-Terres (sols consolidés)	46.171139	-72.678167	Heath & Sherwood Drilling Ltd.	1958	1958
+A062	Laduboro No 2, La Baie Yamaska	A-Basses-Terres (sols consolidés)	46.170861	-72.677333	Heath & Sherwood Drilling Ltd.	1958	1958
+A063	Laduboro No 3, La Baie Yamaska	A-Basses-Terres (sols consolidés)	46.171444	-72.675861	Precision Drilling Corp.	1959	1959
+A064	Laduboro No 4, La Baie Yamaska	A-Basses-Terres (sols consolidés)	46.135306	-72.790111	Precision Drilling Corp.	1959	1959
+A065	Laduboro No 5, La Baie Yamaska	A-Basses-Terres (sols consolidés)	46.170583	-72.674722	Union Rotary Drillers Ltd.	1962	1963
+A066	Laduboro Seaway Almega No 5, Champlain	A-Basses-Terres (sols consolidés)	46.43725	-72.395111	Walter Oes	1961	1961
+A067	Laduboro Seaway Almega No 6, Champlain	A-Basses-Terres (sols consolidés)	46.46975	-72.344	James Drilling Ltd.	1961	1961
+A068	Lounan No 1	A-Basses-Terres (sols consolidés)	45.973083	-73.252028	St. Lambert Drilling Co.	1955	1956
+A069	Impérial Lowlands No 1	A-Basses-Terres (sols consolidés)	46.549194	-71.998722	Stubble & Stubble	1956	1956
+A070	Impérial Lowlands No 2	A-Basses-Terres (sols consolidés)	46.295028	-72.554556	Stubble & Stubble	1956	1957
+A071	Impérial Lowlands No 3	A-Basses-Terres (sols consolidés)	46.258361	-72.447333	Meier & Shaw	1956	1957
+A072	Impérial Lowlands No 4, Lotbinière	A-Basses-Terres (sols consolidés)	46.616417	-71.867333	Meier & Shaw	1957	1957
+A073	Impérial Lowlands No 6, Nicolet	A-Basses-Terres (sols consolidés)	46.115028	-72.503167	Union Rotary Drillers Ltd.	1957	1957
+A074	Impérial Lowlands Seaway No 1, Champlain	A-Basses-Terres (sols consolidés)	46.436417	-72.405667	Robert McMaster & Sons	1959	1959
+A075	Impérial Lowlands, Verchères No 1	A-Basses-Terres (sols consolidés)	45.738917	-73.368194	Meier & Shaw	1957	1957
+A076	Lozo and Joseph No 1	A-Basses-Terres (sols consolidés)	45.207528	-73.260694	T.E. Larocque	1953	1953
+A077	Lozo and Joseph No 2	A-Basses-Terres (sols consolidés)	45.197806	-73.267917	T.E. Larocque	1953	1953
+A078	Maisonneuve	A-Basses-Terres (sols consolidés)	45.559194	-73.527083		1886	1886
+A079	Mallet No 1	A-Basses-Terres (sols consolidés)	45.6695	-73.839444	Napoleon Morrissette Diamond Drilling	1937	1937
+A080	Mohr No 1	A-Basses-Terres (sols consolidés)	45.947806	-73.294861		1934	1934
+A081	National Gas No 1	A-Basses-Terres (sols consolidés)	45.700583	-72.976778	Capital Trust Co. (Mr. Tripplehorn)	1914	1915
+A082	National Gas No 2	A-Basses-Terres (sols consolidés)	45.70475	-72.980667	Capital Trust Co. (Mr. Tripplehorn)	1916	1916
+A083	Collège de Nicolet	A-Basses-Terres (sols consolidés)	46.229194	-72.615944	Collège de Nicolet	1885	1896
+A084	Okalta Oilmont No 1	A-Basses-Terres (sols consolidés)	45.683361	-73.566806	Ranch Drilling Ltd	1956	1957
+A085	Okalta Oilmont No 2	A-Basses-Terres (sols consolidés)	45.683639	-73.634583	Ranch Drilling Ltd	1956	1957
+A086	Oil Selections No 2	A-Basses-Terres (sols consolidés)	45.788361	-73.530972	Ranch Drilling Ltd	1956	1956
+A087	Oil Selections No 5	A-Basses-Terres (sols consolidés)	45.84225	-73.417083	Ranch Drilling Ltd	1956	1956
+A088	Oil Selections No 6	A-Basses-Terres (sols consolidés)	45.834472	-73.410139	Ranch Drilling Ltd	1956	1956
+A089	Oil Selections No 7	A-Basses-Terres (sols consolidés)	45.822028	-73.385583	Ranch Drilling Ltd	1956	1956
+A090	Oil Selections No 8	A-Basses-Terres (sols consolidés)	45.816389	-73.372056	Ranch Drilling Ltd	1956	1956
+A091	Oil Selections No 9	A-Basses-Terres (sols consolidés)	45.871694	-73.377361	Ranch Drilling Ltd	1956	1956
+A092	Oil Selections No 11	A-Basses-Terres (sols consolidés)	45.841972	-73.335694	Ranch Drilling Ltd	1956	1956
+A093	Oil Selections No 18	A-Basses-Terres (sols consolidés)	45.869472	-73.37375	Ranch Drilling Ltd	1956	1957
+A094	Oil Selections No 20	A-Basses-Terres (sols consolidés)	45.874472	-73.380139	Ranch Drilling Ltd	1956	1956
+A095	Oil Selections No 21	A-Basses-Terres (sols consolidés)	45.876417	-73.382917	St. Lambert Drilling Co.	1956	1956
+A096	Oil Selections No 22	A-Basses-Terres (sols consolidés)	45.877806	-73.384583	Ranch Drilling Ltd	1956	1956
+A097	Oil Selections No 23	A-Basses-Terres (sols consolidés)	45.878639	-73.373194	Ranch Drilling Ltd	1956	1957
+A098	Oil Selections No 24	A-Basses-Terres (sols consolidés)	45.876139	-73.369306	Ranch Drilling Ltd	1956	1956
+A099	Oil Selections No 29	A-Basses-Terres (sols consolidés)	45.881139	-73.376528	Ranch Drilling Ltd	1956	1956
+A100	Oil Selections No 30	A-Basses-Terres (sols consolidés)	45.885583	-73.375139	Ranch Drilling Ltd	1956	1957
+A101	Oil Selections No 31	A-Basses-Terres (sols consolidés)	45.890028	-73.368194	Ranch Drilling Ltd	1956	1957
+A102	Oil Selections No 32	A-Basses-Terres (sols consolidés)	45.882528	-73.370972	St. Lambert Drilling Co.	1956	1957
+A103	Oil Selections No 33	A-Basses-Terres (sols consolidés)	45.88225	-73.350417	Ranch Drilling Ltd	1957	1957
+A104	Québec Fuel No 1	A-Basses-Terres (sols consolidés)	46.01475	-72.916222		1908	1909
+A105	Québec Fuel No 2	A-Basses-Terres (sols consolidés)	45.874472	-73.188472		1909	1909
+A106	Québec Fuel No 3	A-Basses-Terres (sols consolidés)	45.797222	-73.325861		1909	1910
+A107	Québec Fuel No 4	A-Basses-Terres (sols consolidés)	45.772806	-73.36625		1910	1910
+A108	Saint-Hyacinthe No 1	A-Basses-Terres (sols consolidés)	45.725861	-73.040944	Rawlings Drilling Co.	1956	1957
+A109	Richelieu Gas, Saint-Denis No 2	A-Basses-Terres (sols consolidés)	45.748083	-73.139028	The Hope Engineering Co.	1931	1932
+A110	Saint-Élie-de-Caxton No 2	A-Basses-Terres (sols consolidés)	46.488361	-72.950667	Edmond Côté	1940	1943
+A111	Saint-John Petroleum co., Saint-Hubert No 1	A-Basses-Terres (sols consolidés)	45.513083	-73.431806	J.L. Ashton	1947	1949
+A112	Saint-Lawrence River No 1	A-Basses-Terres (sols consolidés)	45.273917	-74.017944	St. Lambert Drilling Co.	1955	1956
+A113	Sainte-Madeleine No 1	A-Basses-Terres (sols consolidés)	45.581972	-73.000417		1917	1917
+A114	Saint-Philippe No 1	A-Basses-Terres (sols consolidés)	45.793083	-73.60125		1933	1933
+A115	Sainte-Rosalie No 1	A-Basses-Terres (sols consolidés)	45.642528	-72.854556	Roméo Turcotte	1954	1955
+A116	Sainte-Rosalie No 2	A-Basses-Terres (sols consolidés)	45.643639	-72.859	Roméo Turcotte	1955	1956
+A117	Seaway Almega No 9, Saint-Maurice	A-Basses-Terres (sols consolidés)	46.469194	-72.528722	Robert McMaster & Sons	1959	1959
+A118	Senneterre métal, Gélinas No 1, Sainte-Angèle	A-Basses-Terres (sols consolidés)	46.357278	-72.466722	Antonio Dubé	1961	1961
+A119	Senneterre métal, Gélinas No 2, Sainte-Angèle	A-Basses-Terres (sols consolidés)	46.356944	-72.469194	Samson & Frères Inc.	1961	1961
+A120	Senigon No 1	A-Basses-Terres (sols consolidés)	45.092528	-73.260694	Napoleon Morrissette Diamond Drilling	1942	1942
+A121	South Shore No 1	A-Basses-Terres (sols consolidés)	46.10975	-72.559278		1931	1932
+A122	South Shore No 2	A-Basses-Terres (sols consolidés)	46.110861	-72.564278	South Shore Oil Lands Ltd.	1932	1932
+A123	Trudel	A-Basses-Terres (sols consolidés)	46.21975	-72.509278		1885	1885
+A124	Oka No 1	A-Basses-Terres (sols consolidés)	45.525028	-74.141667	S. Groleau Bros. Ltd.	1954	1954
+A125	Laduboro C.I.G. No 1, Nicolet	A-Basses-Terres (sols consolidés)	46.190972	-72.625972	Union Rotary Drillers Ltd.	1963	1963
+A126	Laduboro QIG et al No 1, Yamaska	A-Basses-Terres (sols consolidés)	46.153917	-72.677389	Union Rotary Drillers Ltd.	1963	1964
+A127	Laduboro Bald Mountain Intercity No 1, Trois-Rivières	A-Basses-Terres (sols consolidés)	46.344194	-72.587056	Samson & Frères Inc.	1964	1964
+A128	Laduboro Bald Mountain-Intercity No 2, Trois-Rivières	A-Basses-Terres (sols consolidés)	46.335583	-72.610389	Big Indian Drilling Co.	1964	1964
+A129	Laduboro Bald Mountain-Intercity No 1, Pointe-du-Lac	A-Basses-Terres (sols consolidés)	46.2895	-72.706444	Big Indian Drilling Co.	1964	1964
+A130	Laduboro Verchères Saint-Pierre No 22, Pointe-du-Lac	A-Basses-Terres (sols consolidés)	46.306806	-72.699694	Big Indian Drilling Co. et Foragaz	1964	1964
+A131	Verchères No 1, Louiseville	A-Basses-Terres (sols consolidés)	46.245	-72.962833	Samson & Frères Inc.	1964	1964
+A132	Québec Natural Gas No 2, Saint-François-de-Sales	A-Basses-Terres (sols consolidés)	45.662806	-73.692917	Canadian LongYear Ltd.	1964	1964
+A133	Gélinas No 5	A-Basses-Terres (sols consolidés)	46.356944	-72.469306	St. Lawrence Drilling Co.	1963	1963
+A134	Québec Natural Gas No 10, Saint-Vincent-de-Paul	A-Basses-Terres (sols consolidés)	45.661694	-73.641528	James Drilling Ltd.	1965	1965
+A135	Québec Natural Gas No 11, Saint-Vincent-de-Paul	A-Basses-Terres (sols consolidés)	45.642806	-73.66875	James Drilling Ltd.	1965	1965
+A136	Québec Natural Gas No 12, Saint-Vincent-de-Paul	A-Basses-Terres (sols consolidés)	45.647806	-73.652083	Inspiration Mining and Development Co. Ltd.	1965	1965
+A137	Québec Natural Gas No 13, Saint-Vincent-de-Paul	A-Basses-Terres (sols consolidés)	45.653639	-73.649583	Canadian LongYear Ltd.	1965	1965
+A138	Québec Natural Gas No 14, Saint-Vincent-de-Paul	A-Basses-Terres (sols consolidés)	45.652806	-73.630139	Canadian LongYear Ltd.	1965	1965
+A139	Québec Natural Gas No 9, Saint-François-de-Sales	A-Basses-Terres (sols consolidés)	45.665028	-73.655417	Canadian LongYear Ltd.	1965	1965
+A140	Québec Natural Gas No 10, Saint-François-de-Sales	A-Basses-Terres (sols consolidés)	45.668361	-73.639028	Canadian LongYear Ltd.	1965	1965
+A141	Québec Natural Gas No 1, L'Épiphanie	A-Basses-Terres (sols consolidés)	45.848639	-73.50375	Inspiration Mining and Development Co. Ltd.	1965	1965
+A142	Québec Natural Gas No 2, L'Épiphanie	A-Basses-Terres (sols consolidés)	45.838917	-73.493472	Inspiration Mining and Development Co. Ltd.	1965	1965
+A143	Senneterre No 2, Saint-Grégoire	A-Basses-Terres (sols consolidés)	46.225306	-72.507611	Sixty-Five Development Ltd.	1965	1965
+A144	Louvicourt No 5, L'Assomption	A-Basses-Terres (sols consolidés)	45.88475	-73.375139	Sixty-Five Development Ltd.	1965	1965
+A145	Louvicourt No 7, L'Assomption	A-Basses-Terres (sols consolidés)	45.880028	-73.37875	Sixty-Five Development Ltd.	1965	1966
+A146	Québec Natural Gas No 1, Saint-Gérard-Magella	A-Basses-Terres (sols consolidés)	45.915028	-73.457361	Canadian LongYear Ltd.	1966	1966
+A147	Québec Natural Gas No 2, Saint-Gérard-Magella	A-Basses-Terres (sols consolidés)	45.909194	-73.449028	Canadian LongYear Ltd.	1966	1966
+A148	Québec Natural Gas No 3, Saint-Gérard-Magella	A-Basses-Terres (sols consolidés)	45.902528	-73.440417	Canadian LongYear Ltd.	1966	1966
+A149	Québec Natural Gas No 15, Saint-Vincent-de-Paul	A-Basses-Terres (sols consolidés)	45.661139	-73.642361	McMaster Drilling Ltd.	1966	1966
+A150	Québec Natural Gas No 16, Saint-Vincent-de-Paul	A-Basses-Terres (sols consolidés)	45.660861	-73.644028	McMaster Drilling Ltd.	1966	1966
+A151	Louvicourt - Métal l'Assomption No 8	A-Basses-Terres (sols consolidés)	45.879472	-73.37875	McMaster Drilling Ltd.	1966	1966
+A152	Shell, Saint-Simon No 1	A-Basses-Terres (sols consolidés)	45.720556	-72.802028	Peter Bawden Drilling Services Ltd.	1968	1969
+A152-R1	Shell, Saint-Simon No 1	A-Basses-Terres (sols consolidés)	45.720556	-72.802028	Foragaz Inc.	2005	2005
+A153	Laduboro No 6, La Baie Yamaska	A-Basses-Terres (sols consolidés)	46.121694	-72.733167	Canadian Eastern Oil & Gas Drilling Ltd.	1969	1969
+A154	Salem No 1	A-Basses-Terres (sols consolidés)	45.058944	-74.43075		1967	1967
+A155	Morin & Grad, Yamachiche No 1	A-Basses-Terres (sols consolidés)	46.25725	-72.869833	Samson & Frères Inc.	1970	1970
+A156	Husky, Gentilly No 1	A-Basses-Terres (sols consolidés)	46.356306	-72.279028	Garnett Drilling Ltd.	1970	1971
+A157	Canac B.P. Sisque, Brossard No 1	A-Basses-Terres (sols consolidés)	45.444444	-73.490583	Brinkerhoff Drilling Ltd.	1971	1971
+A158	Husky Bruyères No 1	A-Basses-Terres (sols consolidés)	46.322806	-72.497	Garnett Drilling Ltd.	1971	1971
+A158-R1	Husky Bruyères No 1	A-Basses-Terres (sols consolidés)	46.322806	-72.497	Foragaz Inc.	2002	2002
+A159	SOQUIP Laduboro, Baieville No 1	A-Basses-Terres (sols consolidés)	46.128639	-72.754	Underwater Gas Developers Ltd.	1971	1971
+A160	CPOG SOQUIP Sisque, Île d'Orléans No 1	A-Basses-Terres (sols consolidés)	46.97475	-70.923139	Garnett Drilling Ltd.	1971	1971
+A161	Shell, Sainte-Françoise-Romaine No 1	A-Basses-Terres (sols consolidés)	46.473639	-71.915389	Regent Drilling Ltd.	1971	1972
+A162	Sarep Laduboro, Saint-Ours No 1	A-Basses-Terres (sols consolidés)	45.879194	-73.09125	Garnet Drilling Ltd	1972	1972
+A163	Shell, Wickham No 1	A-Basses-Terres (sols consolidés)	45.804667	-72.429778	Thomson Drilling Ltd.	1972	1972
+A164	Shell, Saint-Flavien No 1	A-Basses-Terres (sols consolidés)	46.510611	-71.568333	Regent Drilling Ltd.	1972	1972
+A164-R1	Shell, Saint-Flavien No 1	A-Basses-Terres (sols consolidés)	46.510611	-71.568333	Beta Well Service Inc.	1975	1975
+A165	C.S. SOQUIP Laduboro, Nicolet No 1 et No 1a	A-Basses-Terres (sols consolidés)	46.178361	-72.627611	Garnett Drilling Ltd.	1972	1973
+A166	Shell, Saint-Armand ouest No 1	A-Basses-Terres (sols consolidés)	45.066694	-73.06625	Thomson Drilling Ltd.	1972	1973
+A167	SOQUIP Shell, Sainte-Croix No 1	A-Basses-Terres (sols consolidés)	46.621556	-71.704028	Regent Drilling Ltd.	1973	1973
+A168	SOQUIP Shell, Villeroy No 1	A-Basses-Terres (sols consolidés)	46.465306	-71.901222	Regent Drilling Ltd.	1972	1973
+A169	SOQUIP Shell, Saint-Flavien No 1	A-Basses-Terres (sols consolidés)	46.490167	-71.604806	Regent Drilling Ltd.	1974	1974
+A170	C.S. SOQUIP, Yamachiche No 1	A-Basses-Terres (sols consolidés)	46.291028	-72.90225	Brinkerhoff Drilling Ltd.	1974	1974
+A171	SOQUIP et al., Val-Alain No 1	A-Basses-Terres (sols consolidés)	46.437806	-71.697222	Regent Drilling Ltd.	1974	1974
+A172	C.S. SOQUIP S.W., Maskinongé No 1	A-Basses-Terres (sols consolidés)	46.182083	-73.041778	Brinkerhoff Drilling Ltd.	1974	1974
+A173	SOQUIP et al., Villeroy No 2	A-Basses-Terres (sols consolidés)	46.496389	-71.856167	Regent Drilling Ltd.	1974	1975
+A174	SOQUIP et al., Île d'Orléans No 2	A-Basses-Terres (sols consolidés)	47.001056	-70.889333	Regent Drilling Ltd.	1975	1975
+A175	SOQUIP et al., Les Saules No 1	A-Basses-Terres (sols consolidés)	46.818083	-71.335361	Regent Drilling Ltd.	1975	1975
+A176	SOQUIP et al., Ancienne-Lorette No 1	A-Basses-Terres (sols consolidés)	46.782972	-71.397361	Regent Drilling Ltd.	1975	1975
+A177	SOQUIP et al., Saint-Flavien No 2	A-Basses-Terres (sols consolidés)	46.510611	-71.546167	Regent Drilling Ltd.	1975	1976
+A178	SOQUIP et al., Saint-Flavien No 3	A-Basses-Terres (sols consolidés)	46.505972	-71.582278	Regent Drilling Ltd.	1976	1976
+A179	SOQUIP et al., Saint-Hugues No 1	A-Basses-Terres (sols consolidés)	45.759917	-72.803361	Regent Drilling Ltd.	1976	1976
+A180	SOQUIP et al., Saint-Flavien No 4	A-Basses-Terres (sols consolidés)	46.495167	-71.566306	Regent Drilling Ltd.	1976	1977
+A181	SOQUIP et al., Sainte-Hélène No 1	A-Basses-Terres (sols consolidés)	45.736722	-72.772972	Regent Drilling Ltd.	1977	1977
+A182	SOQUIP et al., Saint-Flavien No 5	A-Basses-Terres (sols consolidés)	46.51075	-71.600861	Regent Drilling Ltd.	1977	1977
+A183	SOQUIP et al., Saint-Flavien No 6	A-Basses-Terres (sols consolidés)	46.514111	-71.579167	Regent Drilling Ltd.	1977	1977
+A184	SOQUIP et al., Lyster No 1	A-Basses-Terres (sols consolidés)	46.401139	-71.662861	Regent Drilling Ltd.	1977	1977
+A185	SOQUIP Dome et al., Notre-Dame-du-Bon-Conseil No 1	A-Basses-Terres (sols consolidés)	46.011417	-72.338444	Regent Drilling Ltd.	1977	1978
+A186	SOQUIP, Nicolet No 1	A-Basses-Terres (sols consolidés)	46.185028	-72.644	Regent Drilling Ltd.	1977	1978
+A187	SOQUIP et al., Du Chêne No 1 (Villeroy)	A-Basses-Terres (sols consolidés)	46.423083	-71.840667	Regent Drilling Ltd.	1978	1978
+A188	SOQUIP, Nicolet No 2	A-Basses-Terres (sols consolidés)	46.208639	-72.609278	Regent Drilling Ltd.	1978	1978
+A189	SOQUIP, Saint-Thomas-d'Aquin No 1	A-Basses-Terres (sols consolidés)	45.698167	-72.984806	Regent Drilling Ltd.	1978	1978
+A190	SOQUIP, Sainte-Françoise-Romaine No 1	A-Basses-Terres (sols consolidés)	46.451139	-71.914556	Regent Drilling Ltd.	1979	1979
+A191	SOQUIP, Saint-Janvier-de-Joly No 1	A-Basses-Terres (sols consolidés)	46.466167	-71.627417	Regent Drilling Ltd.	1979	1979
+A192	SOQUIP, Sainte-Croix No 1 Lotbinière	A-Basses-Terres (sols consolidés)	46.62725	-71.767056	Regent Drilling Ltd.	1979	1979
+A193	SOQUIP, Saint-Janvier-de-Joly No 2	A-Basses-Terres (sols consolidés)	46.49475	-71.615083	Regent Drilling Ltd.	1979	1979
+A194	SOQUIP, Pintendre No 1 Lévis	A-Basses-Terres (sols consolidés)	46.78025	-71.108083	Regent Drilling Ltd.	1979	1980
+A195	SOQUIP Pétrofina, Saint-Louis-de-Blandford No 1	A-Basses-Terres (sols consolidés)	46.277278	-72.037111	Regent Drilling Ltd.	1980	1980
+A196	SOQUIP Pétrofina, Bécancour No 1	A-Basses-Terres (sols consolidés)	46.366556	-72.41125	Regent Drilling Ltd.	1980	1981
+A196-R1	SOQUIP Pétrofina, Bécancour No 1	A-Basses-Terres (sols consolidés)	46.366556	-72.41125	Foragaz Inc.	1998	1998
+A197	Texaco SOQUIP, Baieville No 1 Yamaska	A-Basses-Terres (sols consolidés)	46.181361	-72.671389	Regent Drilling Ltd.	1981	1981
+A198	SOQUIP Pétrofina, Bécancour No 2	A-Basses-Terres (sols consolidés)	46.389167	-72.388861	Regent Drilling Ltd.	1981	1981
+A198-R1	SOQUIP Pétrofina, Bécancour No 2	A-Basses-Terres (sols consolidés)	46.389167	-72.388861	Foragaz Inc.	1999	1999
+A199	Texaco, Yamaska-Est No 1	A-Basses-Terres (sols consolidés)	46.043917	-72.929	Regent Drilling Ltd.	1981	1981
+A200	SOQUIP, Saint-Flavien No 7	A-Basses-Terres (sols consolidés)	46.507806	-71.576917	Regent Drilling Ltd.	1984	1984
+A201	SEE, Milton No 1	A-Basses-Terres (sols consolidés)	45.58475	-72.625944	Les Puits du Québec Inc.	1985	1985
+A202	SOQUIP Lemaire et al., Joly No 3	A-Basses-Terres (sols consolidés)	46.480556	-71.627278	Underwater Gas Developers Ltd.	1985	1985
+A202-R1	SOQUIP Lemaire et al., Joly No 3	A-Basses-Terres (sols consolidés)	46.480556	-71.627278	Foragaz Inc.	1997	1997
+A203	Tioxide, Tracy No 1	A-Basses-Terres (sols consolidés)	46.030694	-73.157444	Géohydrotek Inc.	1986	1987
+A204	SNC Soligaz, Montréal-Est No 1	A-Basses-Terres (sols consolidés)	45.617194	-73.516861	Succession Forage G. Downing Ltd.	1986	1986
+A205	SNC Soligaz, Montréal-Est No 2	A-Basses-Terres (sols consolidés)	45.614333	-73.519	Succession Forage G. Downing Ltd.	1986	1986
+A206	SNC Soligaz, Montréal-Est No 3	A-Basses-Terres (sols consolidés)	45.615111	-73.509111	Succession Forage G. Downing Ltd.	1986	1986
+A207	Jaltin Lemaire, Louiseville No 2	A-Basses-Terres (sols consolidés)	46.258611	-72.951944	Foragaz Inc.	1988	1988
+A208	SOQUIP Soligaz, Varennes No 1	A-Basses-Terres (sols consolidés)	45.701861	-73.425917	Succession Forage G. Downing Ltd.	1988	1988
+A209	SOQUIP Soligaz, Varennes No 2	A-Basses-Terres (sols consolidés)	45.704861	-73.431444	Succession Forage G. Downing Ltd.	1988	1988
+A210	SOQUIP Soligaz, Varennes No 3a et 3b	A-Basses-Terres (sols consolidés)	45.706639	-73.428194	Succession Forage G. Downing Ltd.	1988	1988
+A211	SOQUIP Soligaz, Varennes No 4	A-Basses-Terres (sols consolidés)	45.707722	-73.430111	Succession Forage G. Downing Ltd.	1988	1988
+A212	SOQUIP Soligaz, Varennes No 5	A-Basses-Terres (sols consolidés)	45.704222	-73.428389	Succession Forage G. Downing Ltd.	1988	1988
+A213	SOQUIP Soligaz, Varennes No 6	A-Basses-Terres (sols consolidés)	45.707722	-73.43025	Succession Forage G. Downing Ltd.	1988	1988
+A214	BVI et al., Saint-Simon No 1	A-Basses-Terres (sols consolidés)	45.692583	-72.811611	Nabors Drilling Ltd.	1991	1992
+A215	SOQUIP et al., Saint-Flavien No 8	A-Basses-Terres (sols consolidés)	46.505667	-71.582139	Ralex Inc.	1992	1992
+A216	Intermont SOQUIP, Villeroy No 1	A-Basses-Terres (sols consolidés)	46.496389	-71.856167	Ralex Inc.	1992	1992
+A217	SNC SOQUIP Soligaz, Varennes No 1	A-Basses-Terres (sols consolidés)	45.706056	-73.426667	Succession Forage G. Downing Ltd.	1992	1992
+A218	SNC SOQUIP Soligaz, Varennes No 2	A-Basses-Terres (sols consolidés)	45.704861	-73.427556	Succession Forage G. Downing Ltd.	1992	1992
+A219	SNC SOQUIP Soligaz, Varennes No 3	A-Basses-Terres (sols consolidés)	45.7055	-73.428167	Succession Forage G. Downing Ltd.	1992	1992
+A220	SNC SOQUIP Soligaz, Varennes No 4	A-Basses-Terres (sols consolidés)	45.704	-73.428333	Succession Forage G. Downing Ltd.	1992	1992
+A221	SOQUIP et al., Saint-Flavien No 9	A-Basses-Terres (sols consolidés)	46.504333	-71.585139	Ralex Inc.	1993	1993
+A222	BVI et al., Saint-Wenceslas No 1	A-Basses-Terres (sols consolidés)	46.181861	-72.320111	Nabors Drilling Ltd.	1993	1993
+A223	Intermont, Bécancour No 1	A-Basses-Terres (sols consolidés)	46.370556	-72.399444	Ralex Inc.	1993	1993
+A224	Intermont, Bécancour No 2	A-Basses-Terres (sols consolidés)	46.3675	-72.408056	Ralex Inc.	1993	1993
+A224-R1	Intermont, Bécancour No 2	A-Basses-Terres (sols consolidés)	46.3675	-72.408056	Foragaz Inc.	1998	1998
+A225	SOQUIP et al., Saint-Flavien No 10	A-Basses-Terres (sols consolidés)	46.506	-71.581556	Ralex Inc.	1994	1994
+A225-R1	SOQUIP et al., Saint-Flavien No 10	A-Basses-Terres (sols consolidés)	46.506	-71.581556	Ralex Inc.	1995	1995
+A226	SOQUIP et al., Saint-Flavien No 11	A-Basses-Terres (sols consolidés)	46.5095	-71.586472	Ralex Inc.	1994	1994
+A227	SOQUIP et al., Saint-Flavien No 12	A-Basses-Terres (sols consolidés)	46.506083	-71.580528	Ralex Inc.	1995	1995
+A228	SOQUIP et al., Saint-Flavien No 13	A-Basses-Terres (sols consolidés)	46.51225	-71.567861	Ralex Inc.	1995	1996
+A229	Genoil et al., Saint-Léonard No 1	A-Basses-Terres (sols consolidés)	46.075778	-72.387194	Ralex Inc.	1996	1997
+A230	Intragaz, Saint-Flavien HZ No 14	A-Basses-Terres (sols consolidés)	46.501167	-71.581028	Ralex Inc.	2000	2000
+A231	Junex, Bécancour No 1	A-Basses-Terres (sols consolidés)	46.366417	-72.410639	Foragaz Inc.	2000	2001
+A232	Intragaz, Saint-Flavien HZ No 15	A-Basses-Terres (sols consolidés)	46.505444	-71.58025	Union Rotary Drillers Ltd.	2002	2002
+A233	Ditem, Huntingdon No 1	A-Basses-Terres (sols consolidés)	45.085806	-74.261111	Georges Downing Estate Drilling Ltd.	2002	2002
+A234	Ditem, Dundee No 1	A-Basses-Terres (sols consolidés)	45.064333	-74.433889	Georges Downing Estate Drilling Ltd.	2002	2002
+A235	Intragaz, Saint-Flavien HZ No 16	A-Basses-Terres (sols consolidés)	46.509472	-71.561806	Nabors Drilling Ltd.	2002	2002
+A236	Junex, Bécancour No 2	A-Basses-Terres (sols consolidés)	46.372778	-72.4015	Foragaz Inc.	2002	2002
+A237	Intragaz, Saint-Flavien HZ No 17	A-Basses-Terres (sols consolidés)	46.508333	-71.558194	Nabors Drilling Ltd.	2002	2003
+A238	Junex, Batiscan No 1	A-Basses-Terres (sols consolidés)	46.483694	-72.278806	Foragaz Inc.	2003	2003
+A239	Junex, Bécancour No 3	A-Basses-Terres (sols consolidés)	46.382	-72.409444	Foragaz Inc.	2003	2003
+A240	Intragaz, Saint-Flavien HZ No 18	A-Basses-Terres (sols consolidés)	46.508778	-71.553667	Nabors Drilling Ltd.	2003	2003
+A241	Junex, Bécancour No 4	A-Basses-Terres (sols consolidés)	46.377361	-72.415222	Foragaz Inc.	2003	2003
+A242	Junex, Bécancour No 5	A-Basses-Terres (sols consolidés)	46.388083	-72.392583	Foragaz Inc.	2003	2003
+A243	Intragaz, Saint-Flavien HZ No 19	A-Basses-Terres (sols consolidés)	46.505361	-71.574139	Nabors Drilling Ltd.	2004	2004
+A245	Gastem, Dundee No 1	A-Basses-Terres (sols consolidés)	45.067528	-74.437806	Georges Downing Estate Drilling Ltd.	2004	2004
+A246	Junex, Bécancour No 6	A-Basses-Terres (sols consolidés)	46.391222	-72.385	Foragaz Inc.	2004	2004
+A246-R1	Junex, Bécancour No 6	A-Basses-Terres (sols consolidés)	46.391222	-72.385	Foragaz Inc.	2008	2008
+A247	Junex, Bécancour No 7	A-Basses-Terres (sols consolidés)	46.35525	-72.425917	Foragaz Inc.	2004	2005
+A248	Talisman Energy, Saint-François-du-Lac No 1	A-Basses-Terres (sols consolidés)	46.091444	-72.881694	Doubil Inc.	2006	2006
+A250	Junex, Bécancour No 8	A-Basses-Terres (sols consolidés)	46.362139	-72.427639	Foragaz Inc.	2006	2006
+A251	Junex, Champlain No 1	A-Basses-Terres (sols consolidés)	46.415083	-72.401333	Foragaz Inc.	2006	2006
+A251-R1	Junex, Champlain No 1	A-Basses-Terres (sols consolidés)	46.415083	-72.401333	Foragaz Inc.	2007	2007
+A252	Talisman Energy, Gentilly No 1	A-Basses-Terres (sols consolidés)	46.394694	-72.179139	Precision Drilling Corp.	2006	2006
+A253	Gastem et al., Saint-François-du-Lac No 1	A-Basses-Terres (sols consolidés)	46.041194	-72.784333	Precision Drilling Corp.	2007	2007
+A254	Gastem, Saint-Louis-de-Richelieu HZ No 1	A-Basses-Terres (sols consolidés)	45.852028	-72.972778	Precision Drilling Corp.	2007	2007
+A254-R1	Gastem, Saint-Louis-de-Richelieu HZ No 1	A-Basses-Terres (sols consolidés)	45.852028	-72.972778	Nabors Drilling Ltd.	2008	2008
+A255	Junex, Champlain No 2	A-Basses-Terres (sols consolidés)	46.427	-72.425944	Foragaz Inc.	2007	2007
+A256	Gastem Intragaz, Joly No 4	A-Basses-Terres (sols consolidés)	46.453444	-71.675139	Nabors Drilling Ltd.	2007	2008
+A257	Junex, Saint-Augustin-de-Desmaures No 1	A-Basses-Terres (sols consolidés)	46.756889	-71.46575	Foragaz Inc.	2008	2008
+A258	Junex, Saint-Antoine-sur-Richelieu No 1	A-Basses-Terres (sols consolidés)	45.777528	-73.22075	Foragaz Inc.	2008	2008
+A259	Talisman Energy, Saint-David No 1	A-Basses-Terres (sols consolidés)	45.951417	-72.841972	Horizon Drilling Inc.	2008	2009
+A260	Canadian Forest Oil, Saint-François-du-Lac HZ No 1	A-Basses-Terres (sols consolidés)	46.035	-72.784167	Nabors Drilling Ltd.	2008	2008
+A261	Talisman Energy, La Visitation No 1	A-Basses-Terres (sols consolidés)	46.096083	-72.540694	Horizon Drilling Inc.	2008	2008
+A262	Junex, Bécancour No 9	A-Basses-Terres (sols consolidés)	46.335	-72.397861	Foragaz Inc.	2008	2008
+A263	Questerre et al., Saint-Jean-sur-Richelieu No 1	A-Basses-Terres (sols consolidés)	45.370972	-73.338639	SDS Consulting Corporation	2008	2008
+A265	Canadian Forest Oil, Champlain HZ No 1	A-Basses-Terres (sols consolidés)	46.415944	-72.4025	Nabors Drilling Ltd.	2008	2008
+A266	Talisman Energy, Leclercville No 1	A-Basses-Terres (sols consolidés)	46.504083	-71.866944	Horizon Drilling Inc.	2009	2009
+A267	Talisman Energy, Saint-Édouard No 1	A-Basses-Terres (sols consolidés)	46.5265	-71.777889	Horizon Drilling Inc.	2009	2009
+A269	Junex, Saint-Grégoire No 2	A-Basses-Terres (sols consolidés)	46.255889	-72.533333	Foragaz Inc.	2009	2009
+A270	Junex, Saint-Grégoire No 3	A-Basses-Terres (sols consolidés)	46.291139	-72.554222	Foragaz Inc.	2009	2009
+A271	Canbriam, Farnham No 1	A-Basses-Terres (sols consolidés)	45.272417	-73.006	Horizon Drilling Inc.	2009	2009
+A273	Canbriam, Saint-Hyacinthe No 1	A-Basses-Terres (sols consolidés)	45.6965	-72.985278	Nabors Drilling Ltd	2009	2009
+A274	Canbriam, La Présentation No 1	A-Basses-Terres (sols consolidés)	45.728472	-73.033333	Nabors Drilling	2009	2009
+A275	Talisman Energy, Saint-Édouard HZ No 1a	A-Basses-Terres (sols consolidés)	46.526167	-71.777722	Akita Drilling Ltd	2009	2009
+A276	Talisman Energy, Leclercville HZ No 1a	A-Basses-Terres (sols consolidés)	46.50425	-71.866944	Akita Drilling Ltd	2010	2010
+A277	Talisman Energy, Gentilly HZ No 2	A-Basses-Terres (sols consolidés)	46.38925	-72.175889	Akita Drilling Ltd	2009	2010
+A278	Junex, Wotton No 1	A-Basses-Terres (sols consolidés)	45.739083	-71.801111	Foragaz Inc.	2009	2010
+A279	Talisman Energy, Fortierville HZ No 1	A-Basses-Terres (sols consolidés)	46.482278	-71.998667	Talisman Energy Inc.	2010	2010
+A280	Junex, Villeroy No 1	A-Basses-Terres (sols consolidés)	46.358417	-71.836472	Foragaz Inc.	2010	2010
+A281	Canbriam Energy, La Présentation HZ No 1a	A-Basses-Terres (sols consolidés)	45.728611	-73.033333	Nabors Drilling Ltd.	2010	2010
+A282	Canbriam Energy, Saint-Barnabé-Sud HZ No 1	A-Basses-Terres (sols consolidés)	45.759806	-72.92575	Nabors Drilling Ltd.	2010	2010
+A283	Talisman Energy, Sainte-Gertrude HZ No 1	A-Basses-Terres (sols consolidés)	46.326694	-72.299194	Talisman Energy Inc.	2010	2010
+A284	Canbriam Energy, Saint-Hyacinthe HZ No 1a	A-Basses-Terres (sols consolidés)	45.69675	-72.985	Nabors Drilling Ltd.	2010	2010
+A286	Canadian Forest Oil, Saint-Denis-sur-Richelieu No. 1	A-Basses-Terres (sols consolidés)	45.704972	-73.118889	Akita Drilling Ltd	2010	2010
+A287	Gastem, Saint-Janvier-de-Joly No. 5	A-Basses-Terres (sols consolidés)	46.489556	-71.639278	Akita Drilling Ltd	0	0
+AZ01	Saint-Viateur No 1	A-Basses-Terres (sols consolidés)	46.150028	-73.16625	Azarious Rioux	1931	1931
+AZ02	Associated Quality Canners No 1	A-Basses-Terres (sols consolidés)	45.550028	-73.76625		0	0
+AZ03	Ayers Well No 1	A-Basses-Terres (sols consolidés)	45.666722	-74.299611		0	0
+AZ04	Bécancour No 11	A-Basses-Terres (sols consolidés)	46.250028	-72.446778	Antonio Dubé	1956	1956
+AZ05	Bécancour No 12	A-Basses-Terres (sols consolidés)	46.300028	-72.532889	Antonio Dubé	1956	1956
+AZ06	Bécancour No 13	A-Basses-Terres (sols consolidés)	46.223639	-72.446778	Antonio Dubé	1956	1956
+AZ07	Bécancour No 4	A-Basses-Terres (sols consolidés)	46.265306	-72.4565	Antonio Dubé	0	0
+AZ08	Beloeil	A-Basses-Terres (sols consolidés)	45.566694	-73.199583	William Bell	1905	1905
+AZ09	Bolta Plastic Well	A-Basses-Terres (sols consolidés)	45.400028	-72.766222		0	0
+AZ10	Imperial Lowlands Boucherville No 1	A-Basses-Terres (sols consolidés)	45.588917	-73.360694		1956	1956
+AZ11	Canadian Celanese No 1	A-Basses-Terres (sols consolidés)	45.833361	-72.532889		0	0
+AZ12	Canadian Celanese No 2	A-Basses-Terres (sols consolidés)	45.833361	-72.532889		0	0
+AZ13	Cap Rouge Sainte-Foy Tuberculosis Hospital	A-Basses-Terres (sols consolidés)	46.766694	-71.282861		1922	1922
+AZ14	Gauge Hole No 2 Saint-Scholastique	A-Basses-Terres (sols consolidés)	45.651694	-74.012944		1970	1970
+AZ15	Gauge Hole 3B/70 Saint-Scholastique	A-Basses-Terres (sols consolidés)	45.650028	-74.082944		0	0
+AZ16	Glenview Aylmer No 13	A-Basses-Terres (sols consolidés)	45.400056	-75.816333		1959	1959
+AZ17	Guaranteed Pure Milk Co. Well	A-Basses-Terres (sols consolidés)	45.491972	-73.564583		1930	1930
+AZ18	Hematite No 1	A-Basses-Terres (sols consolidés)	45.98225	-72.155111		1944	1944
+AZ19	Hematite No 2	A-Basses-Terres (sols consolidés)	45.984472	-72.1365		1944	1944
+AZ20	Hotel Dieu Montréal	A-Basses-Terres (sols consolidés)	45.513639	-73.576806		0	0
+AZ21	Hull Foundry Well	A-Basses-Terres (sols consolidés)	45.433361	-75.730222		0	0
+AZ22	Huttes militaires de Longueuil No 321	A-Basses-Terres (sols consolidés)	45.543917	-73.500139		0	0
+AZ23	Imperial Lowlands Yamaska No 4 (Y-4)	A-Basses-Terres (sols consolidés)	46.009472	-72.977889	Ranch Drilling Ltd	1956	1956
+AZ24	Montreal Cotton Valleyfield No 1	A-Basses-Terres (sols consolidés)	45.258389	-74.066278		0	0
+AZ25	Montreal Cotton Valleyfield No 3	A-Basses-Terres (sols consolidés)	45.258389	-74.066278		0	0
+AZ26	Montreal Cotton Valleyfield No 4	A-Basses-Terres (sols consolidés)	45.258389	-74.066278		0	0
+AZ27	Old Scott Place No 1	A-Basses-Terres (sols consolidés)	45.450028	-75.788556		0	0
+AZ28	Ottawa Country Club	A-Basses-Terres (sols consolidés)	45.416694	-75.766333	William Bell	1908	1908
+AZ29	Imperial Lowlands Yamaska No 3 (Y-3)	A-Basses-Terres (sols consolidés)	46.043917	-72.786222	Ranch Drilling Ltd	1956	1956
+AZ30	Porter Water Well	A-Basses-Terres (sols consolidés)	45.400028	-75.799667		1939	1939
+AZ31	Québec City Terminal Station Well	A-Basses-Terres (sols consolidés)	46.795306	-71.328694	William Bell	1922	1922
+AZ32	Royal Montreal Golf Course	A-Basses-Terres (sols consolidés)	45.495861	-73.905139		0	0
+AZ33	Ryan Kingsmere Well	A-Basses-Terres (sols consolidés)	45.500028	-75.833	F.A. McLean	1939	1939
+AZ34	Saint-Élie-de-Caxton No 1	A-Basses-Terres (sols consolidés)	46.491694	-72.96625	Edmond Côté	1939	1939
+AZ35	Saint-Georges No 1	A-Basses-Terres (sols consolidés)	46.133361	-70.666194	J.E. Bélanger	1942	1944
+AZ36	Test Well ID/70 Saint-Scholastique	A-Basses-Terres (sols consolidés)	45.651417	-74.092667		1970	1970
+AZ37	Usine Pilote C.I. Saint-Malo Ascenseur No 1	A-Basses-Terres (sols consolidés)	46.802806	-71.255083		0	0
+AZ38	Usine Pilote C.I. Saint-Malo Ascenseur No 2	A-Basses-Terres (sols consolidés)	46.802806	-71.255083		0	0
+AZ39	Old Scott Place No 2	A-Basses-Terres (sols consolidés)	45.450028	-75.788556		0	0
+AZ40	Imperial Lowlands Yamaska No 6 (Y-6)	A-Basses-Terres (sols consolidés)	46.020861	-72.970139	Trennd Enterprises	1957	1957
+AZ41	Imperial Lowlands Yamaska No 2 (Y-2)	A-Basses-Terres (sols consolidés)	46.033361	-72.832889	Ranch Drilling Ltd	1956	1956
+AZ42	Farnham Militia Camp No 1	A-Basses-Terres (sols consolidés)	45.280583	-72.974583		0	0
+AZ43	Farnham Militia Camp No 2	A-Basses-Terres (sols consolidés)	45.280583	-72.974583		0	0
+AZ44	Chartrand M. Well	A-Basses-Terres (sols consolidés)	45.676417	-74.407944	A. Arbuchle	1931	1931
+AZ45	Dufresne Engineering No 1 Well	A-Basses-Terres (sols consolidés)	45.308361	-73.899583		0	0
+AZ46	Turkish Bath Well	A-Basses-Terres (sols consolidés)	45.500028	-73.56625	William Bell	1898	1898
+AZ47	Aumacho Oka No 1 Saint-Michel de Vaudreuil	A-Basses-Terres (sols consolidés)	45.438361	-74.127111		1955	1956
+AZ48	Aumacho Oka No 2 Saint-Michel de Vaudreuil	A-Basses-Terres (sols consolidés)	45.444472	-74.137667		1956	1956
+AZ49	Imperial Shallow Test Hole N-1	A-Basses-Terres (sols consolidés)	46.433361	-72.166222	Trennd Enterprises	1957	1957
+AZ50	Imperial Shallow Test Hole N-2	A-Basses-Terres (sols consolidés)	46.430583	-72.160667	Trennd Enterprises	1957	1957
+AZ51	Euchariste Coutu No 1	A-Basses-Terres (sols consolidés)	46.049472	-73.283194	Sprague and Henwood Ltd.	1933	1933
+AZ52	Imperial Lowlands Yamaska No 5 (Y-5)	A-Basses-Terres (sols consolidés)	45.963917	-72.896806	Trennd Enterprises	1957	1957
+AZ53	Brilund Oka No 8	A-Basses-Terres (sols consolidés)	45.596556	-74.015917		1955	1955
+AZ54	Convert Pointe-aux-Trembles	A-Basses-Terres (sols consolidés)	46.716694	-71.582861		1909	1909
+AZ55	Neuville	A-Basses-Terres (sols consolidés)	46.695861	-71.600917		1970	1970
+AZ56	Cooks Road Hole No 1	A-Basses-Terres (sols consolidés)	45.454194	-75.849667		0	0
+AZ57	Coopérative Granby Québec	A-Basses-Terres (sols consolidés)	45.405583	-72.737083		0	0
+AZ58	Duke Street Theatre	A-Basses-Terres (sols consolidés)	45.427806	-75.721889		1936	1936
+AZ59	E.B. Eddy New Well	A-Basses-Terres (sols consolidés)	45.423639	-75.716333	F.A. McLean	1941	1941
+AZ60	Baril No 4	A-Basses-Terres (sols consolidés)	45.855861	-73.403778		1943	1943
+AZ61	Gatineau Club	A-Basses-Terres (sols consolidés)	45.404194	-75.791333		0	0
+AZ62	Frères de l'Instruction Chrétienne No 1	A-Basses-Terres (sols consolidés)	46.291694	-72.694	Léo Garneau	1958	1959
+AZ63	Frères de l'Instruction Chrétienne No 2	A-Basses-Terres (sols consolidés)	46.287528	-72.689833	Léo Garneau	1960	1960
+AZ64	Bécancour No 58	A-Basses-Terres (sols consolidés)	46.29725	-72.394		0	0
+AZ65	Les Puits du Québec, Neuville No 1	A-Basses-Terres (sols consolidés)	46.701861	-71.602583		1986	1986
+AZ66	Les Puits du Québec, Neuville No 2	A-Basses-Terres (sols consolidés)	46.702	-71.602583		1986	1986
+AZ67	Bettez No 1	A-Basses-Terres (sols consolidés)	46.335278	-72.588333		1910	1910
+AZ68	Saint-Louis-de-Blandford No 1	A-Basses-Terres (sols consolidés)	46.253361	-72.002056	Les Forages Kennebec Ltée	1977	1977
+AZ69	Saint-Louis-de-Blandford No 2	A-Basses-Terres (sols consolidés)	46.269194	-72.022611	Les Forages Kennebec Ltée	1997	1997
+B001	Auger No 1	B-Basses-Terres (sols non consolidés)	46.292639	-72.707167	Joseph Auger	1948	1955
+B001A	Auger No 2	B-Basses-Terres (sols non consolidés)	46.292889	-72.706917		1956	1956
+B001B	Pères de la Fraternité Sacerdotale No 1	B-Basses-Terres (sols non consolidés)	46.291917	-72.699222		1958	1959
+B001C	Pères de la Fraternité Sacerdotale No 2	B-Basses-Terres (sols non consolidés)	46.291917	-72.699222		1960	1960
+B002	Bald Mountain New-Miller No 1, Berthierville	B-Basses-Terres (sols non consolidés)	46.096417	-73.162083	Big Indian Drilling Co.	1961	1961
+B003	Bald Mountain Intercity No 1, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.287556	-72.698944	Big Indian Drilling Co.	1961	1961
+B004	Bald Mountain Intercity No 2, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.289028	-72.703611	Big Indian Drilling Co.	1961	1961
+B005	Bald Mountain Intercity No 3, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.289667	-72.706778	Big Indian Drilling Co.	1961	1961
+B006	Bald Mountain Intercity No 4, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.291139	-72.710222	Big Indian Drilling Co.	1961	1961
+B007	Bald Mountain Intercity No 5, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.291139	-72.714611	Big Indian Drilling Co.	1961	1961
+B008	Bald Mountain Intercity No 6, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.288167	-72.706972	Big Indian Drilling Co.	1961	1961
+B009	Bald Mountain Intercity New Ass. No 7, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.289361	-72.710139	Big Indian Drilling Co.	1961	1961
+B010	Bald Mountain Intercity New Ass. No 8, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.288167	-72.705861	Big Indian Drilling Co.	1962	1962
+B011	Bald Mountain Intercity New Ass. No 9, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.286528	-72.708278	Big Indian Drilling Co.	1962	1962
+B012	Bald Mountain Intercity New Ass. No 10, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.284917	-72.709583	Big Indian Drilling Co.	1962	1962
+B013	Bald Mountain Intercity New Ass. No 11, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.287722	-72.712028	Big Indian Drilling Co.	1962	1962
+B014	Bald Mountain Intercity New Ass. No 12, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.286639	-72.713528	Big Indian Drilling Co.	1962	1962
+B015	Bald Mountain Intercity New Ass. No 15, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.285556	-72.715694	Big Indian Drilling Co.	1962	1962
+B016	Bald Mountain Intercity New-Ass. No 16, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.284194	-72.718028	Big Indian Drilling Co.	1963	1963
+B017	New-Ass. Bald Mountain Intercity No 17, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.283083	-72.720028	Big Indian Drilling Co.	1963	1963
+B018	New-Ass. Bald Mountain Intercity No 20, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.287611	-72.716	Big Indian Drilling Co.	1963	1963
+B019	New-Ass. Bald Mountain Intercity No 21, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.285	-72.713306	Big Indian Drilling Co.	1963	1963
+B020	Bald Mountain Intercity No 1, Sainte-Anne	B-Basses-Terres (sols non consolidés)	46.286667	-72.743611	Antonio Dubé	1961	1961
+B021	Bald Mountain Intercity No 2, Sainte-Anne	B-Basses-Terres (sols non consolidés)	46.290583	-72.747056	Antonio Dubé	1961	1961
+B022	Bald Mountain, La Pérade No 1	B-Basses-Terres (sols non consolidés)	46.601972	-72.204278	Antonio Dubé	1957	1957
+B023	Bald Mountain, La Pérade No 2a	B-Basses-Terres (sols non consolidés)	46.608083	-72.207889	Antonio Dubé	1957	1957
+B024	Bald Mountain No 1, Sorel	B-Basses-Terres (sols non consolidés)	46.047528	-73.11125	Big Indian Drilling Co.	1961	1961
+B025	Bald Mountain New-Miller No 2, Sorel	B-Basses-Terres (sols non consolidés)	46.047806	-73.104583	Big Indian Drilling Co.	1961	1961
+B026	Bald Mountain New-Miller No 3, Sorel	B-Basses-Terres (sols non consolidés)	46.049194	-73.095417	Big Indian Drilling Co.	1961	1961
+B027	Bald Mountain New-Miller No 4, Sorel	B-Basses-Terres (sols non consolidés)	46.045306	-73.100139	Big Indian Drilling Co.	1961	1961
+B028	Bald Mountain Saint-Casimir No 1	B-Basses-Terres (sols non consolidés)	46.657806	-72.187889	Antonio Dubé	1957	1957
+B029	Bald Mountain New-Miller No 1, Saint-Ignace	B-Basses-Terres (sols non consolidés)	46.066139	-73.114583	Big Indian Drilling Co.	1961	1961
+B030	Cabane Ronde	B-Basses-Terres (sols non consolidés)	45.790306	-73.538472		1883	1883
+B031	Canso Saint-Maurice, Louiseville No 1	B-Basses-Terres (sols non consolidés)	46.251972	-72.970389	Carroll Drilling Co. Ltd.	1957	1957
+B032	Caprive No 1, Trois-Rivières	B-Basses-Terres (sols non consolidés)	46.358361	-72.579833	Albert Bédard	1959	1959
+B033	Laduboro Verchères Saint-Pierre No 1, Pointe-du-lac	B-Basses-Terres (sols non consolidés)	46.292194	-72.705583	James Drilling Ltd(1961); Foragaz(1992)	1961	1961
+B034	Laduboro Verchères Saint-Pierre No 2, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.294417	-72.7075	James Drilling Ltd	1961	1961
+B035	Laduboro Verchères Saint-Pierre No 3, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.290833	-72.69925	James Drilling Ltd	1961	1961
+B036	Laduboro Verchères Saint-Pierre No 4, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.290444	-72.701361	James Drilling Ltd(1961); Foragaz(1990)	1961	1961
+B037	Laduboro Verchères Saint-Pierre No 5, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.290389	-72.701361	James Drilling Ltd(1961); Foragaz(1992)	1961	1961
+B038	Laduboro Verchères Saint-Pierre No 6, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.295056	-72.701278	James Drilling Ltd	1961	1961
+B039	Laduboro Verchères Saint-Pierre No 7, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.301167	-72.703389	James Drilling Ltd(1961); Foragaz(1992)	1961	1961
+B040	Laduboro Verchères Saint-Pierre No 8, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.303917	-72.726889	James Drilling Ltd	1961	1961
+B041	Laduboro Verchères Saint-Pierre No 8a, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.303778	-72.726778	James Drilling Ltd	1961	1961
+B042	Laduboro Verchères Saint-Pierre No 9, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.303778	-72.690917	James Drilling Ltd	1961	1961
+B043	Laduboro Verchères Saint-Pierre No 9a, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.304	-72.691306	James Drilling Ltd	1961	1961
+B044	Laduboro Verchères Saint-Pierre No 10, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.295278	-72.722417	James Drilling Ltd	1961	1961
+B045	Laduboro Verchères Saint-Pierre No 11, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.296806	-72.735861	James Drilling Ltd	1961	1961
+B046	Laduboro Verchères Saint-Pierre No 11a, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.296694	-72.735722	James Drilling Ltd	1961	1961
+B047	Laduboro Verchères Saint-Pierre No 11b, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.296611	-72.736139	James Drilling Ltd	1961	1961
+B048	Laduboro Verchères Saint-Pierre No 12, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.288139	-72.69425	James Drilling Ltd	1961	1961
+B049	Laduboro Verchères Saint-Pierre No 13, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.305472	-72.743917	James Drilling Ltd	1961	1961
+B050	Laduboro Verchères Saint-Pierre No 14, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.298083	-72.708111	James Drilling Ltd(1961); Foragaz(1992)	1961	1961
+B051	Laduboro Verchères Saint-Pierre No 15, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.301417	-72.708111	James Drilling Ltd(1961); Foragaz(1992)	1961	1961
+B052	Laduboro Verchères Saint-Pierre No 16, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.305111	-72.704444	James Drilling Ltd(1961); Foragaz(1992)	1961	1961
+B053	Laduboro Verchères Saint-Pierre No 17, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.315278	-72.70775	James Drilling Ltd	1961	1961
+B054	Laduboro Verchères Saint-Pierre No 18, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.315028	-72.697639	James Drilling Ltd	1961	1961
+B054-R1	Laduboro Verchères Saint-Pierre No 18, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.315028	-72.697639	Ralex Inc.	1996	1996
+B055	Laduboro Verchères Saint-Pierre No 19, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.313667	-72.716361	James Drilling Ltd	1961	1961
+B056	Laduboro Verchères Saint-Pierre No 20, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.3085	-72.693722	James Drilling Ltd	1961	1961
+B057	Laduboro Verchères Saint-Pierre No 21, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.314833	-72.688583	James Drilling Ltd	1961	1961
+B057-R1	Laduboro Verchères Saint-Pierre No 21, Pointe-du-Lac	B-Basses-Terres (sols non consolidés)	46.314833	-72.688583	Foragaz Inc.	1990	1990
+B058	Laduboro Verchères Saint-Pierre No 1, Yamachiche	B-Basses-Terres (sols non consolidés)	46.299194	-72.828167	James Drilling Ltd	1961	1961
+B059	Laduboro Verchères Saint-Pierre No 2, Yamachiche	B-Basses-Terres (sols non consolidés)	46.273639	-72.827889	James Drilling Ltd	1961	1961
+B060	Laduboro Verchères Saint-Pierre No 4, Yamachiche	B-Basses-Terres (sols non consolidés)	46.315028	-72.817333	James Drilling Ltd	1961	1961
+B061	Laduboro Verchères Saint-Pierre No 5, Yamachiche	B-Basses-Terres (sols non consolidés)	46.326139	-72.802333	James Drilling Ltd	1961	1961
+B062	Eastern Canada Gas & Oil No 8, Saint-Athanase	B-Basses-Terres (sols non consolidés)	45.270028	-73.240417	Logan Brothers Diamond Drilling Ltd.	1958	1958
+B063	Gélinas No 1	B-Basses-Terres (sols non consolidés)	46.357528	-72.469778	Germain Gélinas	1954	1954
+B064	Sweet Grass, Yamachiche No 1	B-Basses-Terres (sols non consolidés)	46.299583	-72.82975	Robert McMaster & Sons	1955	1955
+B065	Canso Intercity, Pointe-du-Lac No 1	B-Basses-Terres (sols non consolidés)	46.288528	-72.683222	Ranch Drilling Ltd	1956	1956
+B066	Canso Intercity, Pointe-du-Lac No 2	B-Basses-Terres (sols non consolidés)	46.292806	-72.632611	Ranch Drilling Ltd	1956	1956
+B067	Canso Intercity, Sainte-Anne No 1	B-Basses-Terres (sols non consolidés)	46.271139	-72.800944	Ranch Drilling Ltd	1956	1956
+B068	Canso Intercity, Sainte-Anne No 2	B-Basses-Terres (sols non consolidés)	46.293361	-72.749528	Ranch Drilling Ltd	1956	1956
+B069	Canso Intercity, Sainte-Anne No 3	B-Basses-Terres (sols non consolidés)	46.299472	-72.767889	Carroll Drilling Co. Ltd.	1957	1957
+B070	Canso Intercity, Trois-Rivières No 1	B-Basses-Terres (sols non consolidés)	46.308361	-72.575389	Ranch Drilling Ltd	1957	1957
+B071	Laduboro Seaway Almega No 1, Champlain	B-Basses-Terres (sols non consolidés)	46.485028	-72.358722	Walter Oes	1961	1961
+B072	Laduboro Seaway Almega No 2, Champlain	B-Basses-Terres (sols non consolidés)	46.468639	-72.337056	Walter Oes	1961	1961
+B073	Laduboro Seaway Almega No 3, Champlain	B-Basses-Terres (sols non consolidés)	46.445306	-72.404833	Walter Oes	1961	1961
+B074	Laduboro Seaway Almega No 4, Champlain	B-Basses-Terres (sols non consolidés)	46.441972	-72.400667	Walter Oes	1961	1961
+B075	Calbec No 1	B-Basses-Terres (sols non consolidés)	46.30225	-72.815667	Ranch Drilling Ltd	1957	1957
+B076	Calbec No 3	B-Basses-Terres (sols non consolidés)	46.297	-72.729333	Ranch Drilling Ltd	1957	1957
+B077	Calbec No 4	B-Basses-Terres (sols non consolidés)	46.296694	-72.800944	Ranch Drilling Ltd	1957	1957
+B078	Calbec No 5	B-Basses-Terres (sols non consolidés)	46.304444	-72.712694	Ranch Drilling Ltd	1957	1957
+B079	Calbec No 6	B-Basses-Terres (sols non consolidés)	46.290861	-72.817056	Ranch Drilling Ltd	1957	1957
+B080	Calbec No 7	B-Basses-Terres (sols non consolidés)	46.305111	-72.731306	Ranch Drilling Ltd	1957	1957
+B081	Calbec No 8	B-Basses-Terres (sols non consolidés)	46.293917	-72.711611	Ranch Drilling Ltd	1957	1957
+B081-R1	Calbec No 8	B-Basses-Terres (sols non consolidés)	46.293917	-72.711611	Géohydrotek Inc.	1991	1991
+B082	Calbec No 9	B-Basses-Terres (sols non consolidés)	46.303167	-72.709472	Ranch Drilling Ltd	1957	1957
+B083	Calbec No 10	B-Basses-Terres (sols non consolidés)	46.302528	-72.827333	Ranch Drilling Ltd	1957	1957
+B084	New Miller Bald Mountain No 5, Sorel	B-Basses-Terres (sols non consolidés)	46.049472	-73.113194	Big Indian Drilling Co.	1963	1963
+B085	New Miller Bald Mountain No 6, Sorel	B-Basses-Terres (sols non consolidés)	46.023917	-73.077917	Big Indian Drilling Co.	1963	1963
+B086	New Miller Bald Mountain No 7, Sorel	B-Basses-Terres (sols non consolidés)	46.066889	-73.078139	Big Indian Drilling Co.	1963	1963
+B087	New Miller Bald Mountain No 8, Sorel	B-Basses-Terres (sols non consolidés)	46.051417	-73.077917	Big Indian Drilling Co.	1963	1963
+B088	North Shore Seaway No 1, Louiseville	B-Basses-Terres (sols non consolidés)	46.22725	-72.923167	Samson & Frères Inc.	1961	1961
+B089	North Shore Seaway No 2, Louiseville	B-Basses-Terres (sols non consolidés)	46.236417	-72.986778	Samson & Frères Inc.	1961	1961
+B090	Oil Selections No 1	B-Basses-Terres (sols non consolidés)	45.798639	-73.547639	Ranch Drilling Ltd	1956	1956
+B091	Oil Selections No 3	B-Basses-Terres (sols non consolidés)	45.776417	-73.514861	Ranch Drilling Ltd	1956	1956
+B092	Oil Selections No 4	B-Basses-Terres (sols non consolidés)	45.765583	-73.498472	Ranch Drilling Ltd	1956	1956
+B093	Parent	B-Basses-Terres (sols non consolidés)	45.831972	-73.420417		1926	1926
+B094	Prospère, Contrecoeur No 1	B-Basses-Terres (sols non consolidés)	45.813639	-73.297639	Central Exploration Ltd.	1963	1963
+B095	Prospère, Contrecoeur No 2	B-Basses-Terres (sols non consolidés)	45.841972	-73.255694	Central Exploration Ltd.	1963	1963
+B096	Prospère, Contrecoeur No 3	B-Basses-Terres (sols non consolidés)	45.862528	-73.228194	Central Exploration Ltd.	1963	1963
+B097	Prospère, Contrecoeur No 4	B-Basses-Terres (sols non consolidés)	45.876694	-73.220139	Central Exploration Ltd.	1963	1963
+B098	Prospère, Contrecoeur No 5	B-Basses-Terres (sols non consolidés)	45.830306	-73.26625	Central Exploration Ltd.	1963	1963
+B099	Prospère, Contrecoeur No 6	B-Basses-Terres (sols non consolidés)	45.838917	-73.262083	Central Exploration Ltd.	1963	1963
+B100	Prospère, Contrecoeur No 7	B-Basses-Terres (sols non consolidés)	45.838917	-73.27375	Central Exploration Ltd.	1963	1963
+B101	Prospère, Contrecoeur No 8	B-Basses-Terres (sols non consolidés)	45.796972	-73.280972	Central Exploration Ltd.	1963	1963
+B102	Prospère, Contrecoeur No 9	B-Basses-Terres (sols non consolidés)	45.932528	-73.204306	Central Exploration Ltd.	1963	1963
+B103	Prospère, Contrecoeur No 10	B-Basses-Terres (sols non consolidés)	45.912806	-73.204306	Central Exploration Ltd.	1963	1963
+B104	Prospère, Contrecoeur No 11	B-Basses-Terres (sols non consolidés)	45.843083	-73.258194	Central Exploration Ltd.	1963	1963
+B105	Prospère, Saint-Ours No 1	B-Basses-Terres (sols non consolidés)	45.878639	-73.146806	Central Exploration Ltd.	1963	1963
+B106	Prospère, Saint-Ours No 2	B-Basses-Terres (sols non consolidés)	45.90975	-73.14625	Central Exploration Ltd.	1963	1963
+B107	Prospère, Saint-Roch No 1	B-Basses-Terres (sols non consolidés)	45.903361	-73.17375	Central Exploration Ltd.	1963	1963
+B108	Prospère, Saint-Sulpice No 1	B-Basses-Terres (sols non consolidés)	45.805583	-73.359306	Central Exploration Ltd.	1963	1963
+B109	Prospère, Varennes No 1	B-Basses-Terres (sols non consolidés)	45.665861	-73.436806	Central Exploration Ltd.	1963	1963
+B110	Prospère, Varennes No 1a	B-Basses-Terres (sols non consolidés)	45.665861	-73.436806	Central Exploration Ltd.	1963	1963
+B111	Prospère, Varennes No 2	B-Basses-Terres (sols non consolidés)	45.726417	-73.414028	Central Exploration Ltd.	1963	1963
+B112	Prospère, Varennes No 3	B-Basses-Terres (sols non consolidés)	45.691972	-73.437083	Central Exploration Ltd.	1963	1963
+B113	Prospère, Varennes No 4	B-Basses-Terres (sols non consolidés)	45.735306	-73.404028	Central Exploration Ltd.	1963	1963
+B114	Prospère, Varennes No 5	B-Basses-Terres (sols non consolidés)	45.675028	-73.437639	Central Exploration Ltd.	1963	1963
+B115	Prospère, Varennes No 6	B-Basses-Terres (sols non consolidés)	45.673361	-73.405139	Central Exploration Ltd.	1963	1963
+B116	Prospère, Varennes No 7	B-Basses-Terres (sols non consolidés)	45.659472	-73.402917	Central Exploration Ltd.	1963	1963
+B117	Prospère, Varennes No 8	B-Basses-Terres (sols non consolidés)	45.658917	-73.437639	Central Exploration Ltd.	1963	1963
+B118	Prospère, Varennes No 9	B-Basses-Terres (sols non consolidés)	45.676417	-73.377083	Central Exploration Ltd.	1963	1963
+B119	Prospère, Varennes No 10	B-Basses-Terres (sols non consolidés)	45.664472	-73.380694	Central Exploration Ltd.	1963	1963
+B120	Prospère, Varennes No 11	B-Basses-Terres (sols non consolidés)	45.666694	-73.37625	Central Exploration Ltd.	1963	1963
+B121	Prospère, Varennes No 12	B-Basses-Terres (sols non consolidés)	45.658639	-73.382361	Central Exploration Ltd.	1963	1963
+B122	Prospère, Varennes No 13	B-Basses-Terres (sols non consolidés)	45.63975	-73.41375	Central Exploration Ltd.	1963	1963
+B123	Prospère, Varennes No 14	B-Basses-Terres (sols non consolidés)	45.680028	-73.426806	Central Exploration Ltd.	1963	1963
+B124	Prospère, Varennes No 15	B-Basses-Terres (sols non consolidés)	45.681139	-73.424583	Central Exploration Ltd.	1963	1963
+B125	Prospère, Varennes No 16	B-Basses-Terres (sols non consolidés)	45.671417	-73.430417	Central Exploration Ltd.	1963	1963
+B126	Prospère, Varennes No 17	B-Basses-Terres (sols non consolidés)	45.676694	-73.430972	Central Exploration Ltd.	1963	1963
+B127	Prospère, Verchères No 1	B-Basses-Terres (sols non consolidés)	45.791139	-73.329583	Central Exploration Ltd.	1963	1963
+B128	Prospère, Verchères No 1a	B-Basses-Terres (sols non consolidés)	45.791139	-73.329583	Central Exploration Ltd.	1963	1963
+B129	Prospère, Verchères No 1b	B-Basses-Terres (sols non consolidés)	45.791139	-73.329583	Central Exploration Ltd.	1963	1963
+B130	Prospère, Verchères No 2	B-Basses-Terres (sols non consolidés)	45.747806	-73.389583	Central Exploration Ltd.	1963	1963
+B131	Prospère, Verchères No 2a	B-Basses-Terres (sols non consolidés)	45.747806	-73.389583	Central Exploration Ltd.	1963	1963
+B132	Prospère, Verchères No 2b	B-Basses-Terres (sols non consolidés)	45.747806	-73.389583	Central Exploration Ltd.	1963	1963
+B133	Prospère, Verchères No 3	B-Basses-Terres (sols non consolidés)	45.770028	-73.364028	Central Exploration Ltd.	1963	1963
+B134	Prospère, Verchères No 4	B-Basses-Terres (sols non consolidés)	45.805861	-73.308194	Central Exploration Ltd.	1963	1963
+B135	Prospère, Verchères No 5	B-Basses-Terres (sols non consolidés)	45.767528	-73.336528	Central Exploration Ltd.	1963	1963
+B136	Prospère, Verchères No 6	B-Basses-Terres (sols non consolidés)	45.746972	-73.360139	Central Exploration Ltd.	1963	1963
+B137	Prospère, Verchères No 7	B-Basses-Terres (sols non consolidés)	45.763917	-73.34625	Central Exploration Ltd.	1963	1963
+B138	Prospère, Verchères No 8	B-Basses-Terres (sols non consolidés)	45.777806	-73.359028	Central Exploration Ltd.	1963	1963
+B139	Prospère, Verchères No 9	B-Basses-Terres (sols non consolidés)	45.786139	-73.333472	Central Exploration Ltd.	1963	1963
+B140	Lanoraie No 1	B-Basses-Terres (sols non consolidés)	45.976694	-73.23375		1956	1956
+B141	Roy J.A. & Fortin J.	B-Basses-Terres (sols non consolidés)	46.296833	-72.263111	Parco Drilling and Exploration Ltd.	1948	1948
+B142	Canso Saint-Maurice, Sorel No 1	B-Basses-Terres (sols non consolidés)	46.040306	-73.07375	Carroll Drilling Co. Ltd.	1957	1957
+B143	Canso Saint-Maurice, Sorel No 2	B-Basses-Terres (sols non consolidés)	45.953083	-73.095972	Carroll Drilling Co. Ltd.	1957	1957
+B144	Canso Saint-Maurice, Sorel No 3	B-Basses-Terres (sols non consolidés)	45.966417	-73.139861	Carroll Drilling Co. Ltd.	1957	1957
+B145	Saint-Philippe No 1a	B-Basses-Terres (sols non consolidés)	45.793083	-73.60125		1933	1933
+B146	Seaway Almega No 1, Champlain	B-Basses-Terres (sols non consolidés)	46.458083	-72.366528	Antonio Dubé	1957	1957
+B147	Seaway Almega No 2, Champlain	B-Basses-Terres (sols non consolidés)	46.463917	-72.3745	Antonio Dubé	1957	1957
+B148	Seaway Almega No 3, Champlain	B-Basses-Terres (sols non consolidés)	46.460722	-72.369861	Parco Drilling and Exploration Ltd.	1957	1957
+B149	Seaway Almega No 4, Champlain	B-Basses-Terres (sols non consolidés)	46.46175	-72.373111	Parco Drilling and Exploration Ltd.	1957	1957
+B150	Seaway Almega No 5, Champlain	B-Basses-Terres (sols non consolidés)	46.455861	-72.363472	Parco Drilling and Exploration Ltd.	1957	1957
+B151	Seaway Almega No 1, Saint-Maurice	B-Basses-Terres (sols non consolidés)	46.469472	-72.534583	Ranch Drilling Ltd	1957	1957
+B152	Seaway Almega No 2, Saint-Maurice	B-Basses-Terres (sols non consolidés)	46.451417	-72.555389	Trennd Enterprises	1957	1957
+B153	Seaway Almega No 3, Saint-Maurice	B-Basses-Terres (sols non consolidés)	46.438917	-72.553167	Ranch Drilling Ltd	1957	1957
+B154	Seaway Almega No 4, Saint-Maurice	B-Basses-Terres (sols non consolidés)	46.47225	-72.538722	Ranch Drilling Ltd	1957	1957
+B155	Seaway Almega No 5, Saint-Maurice	B-Basses-Terres (sols non consolidés)	46.46725	-72.528167	Ranch Drilling Ltd	1957	1957
+B156	Seaway Almega No 6, Saint-Maurice	B-Basses-Terres (sols non consolidés)	46.468639	-72.530111	Parco Drilling and Exploration Ltd.	1957	1957
+B157	Seaway Almega No 6a, Saint-Maurice	B-Basses-Terres (sols non consolidés)	46.468639	-72.530111	Parco Drilling and Exploration Ltd.	1957	1957
+B158	Seaway Almega No 7, Saint-Maurice	B-Basses-Terres (sols non consolidés)	46.475306	-72.542611	Ranch Drilling Ltd	1957	1957
+B159	Seaway Almega No 8, Saint-Maurice	B-Basses-Terres (sols non consolidés)	46.470861	-72.5365	Parco Drilling and Exploration Ltd.	1957	1957
+B160	Senneterre No 1, L'Assomption	B-Basses-Terres (sols non consolidés)	45.820861	-73.422361	H.R. Morris Ltd.	1957	1957
+B161	Senneterre No 2, L'Assomption	B-Basses-Terres (sols non consolidés)	45.809472	-73.429028	H.R. Morris Ltd.	1957	1957
+B162	Senneterre No 1, Repentigny	B-Basses-Terres (sols non consolidés)	45.77475	-73.445694	H.R. Morris Ltd.	1962	1962
+B163	Senneterre No 2, Repentigny	B-Basses-Terres (sols non consolidés)	45.770861	-73.417639	H.R. Morris Ltd.	1962	1962
+B164	Senneterre No 1, Saint-Sulpice	B-Basses-Terres (sols non consolidés)	45.791694	-73.395972	H.R. Morris Ltd.	1962	1962
+B165	Senneterre No 2, Saint-Sulpice	B-Basses-Terres (sols non consolidés)	45.815861	-73.372917	H.R. Morris Ltd.	1962	1962
+B166	Senneterre No 3, Saint-Sulpice	B-Basses-Terres (sols non consolidés)	45.826417	-73.360139	H.R. Morris Ltd.	1962	1962
+B167	Senneterre No 4, Saint-Sulpice	B-Basses-Terres (sols non consolidés)	45.834472	-73.333194	H.R. Morris Ltd.	1962	1962
+B168	Senneterre No 5, Saint-Sulpice	B-Basses-Terres (sols non consolidés)	45.826694	-73.359472	H.R. Morris Ltd.	1962	1962
+B169	Senneterre No 6, Saint-Sulpice	B-Basses-Terres (sols non consolidés)	45.815583	-73.372639	H.R. Morris Ltd.	1962	1962
+B170	Tamara No 1, Saint-Barnabé	B-Basses-Terres (sols non consolidés)	46.364194	-72.814	Antonio Dubé	1961	1961
+B171	Caxton No 1	B-Basses-Terres (sols non consolidés)	46.365028	-72.807056	Trennd Enterprises	1957	1957
+B172	Caxton No 1a	B-Basses-Terres (sols non consolidés)	46.365028	-72.807056	Trennd Enterprises	1957	1957
+B173	Vanguard No 1, Saint-Etienne	B-Basses-Terres (sols non consolidés)	46.38475	-72.678444	Albert Bédard	1957	
+B174	Verchères Oil No 1, Saint-Barnabé	B-Basses-Terres (sols non consolidés)	46.365083	-72.815639	Wellie Roy	1960	1960
+B175	Verchères Oil T-1, Saint-Barnabé	B-Basses-Terres (sols non consolidés)	46.363361	-72.804556		1960	1960
+B176	Verchères No 1, Trois-Rivières	B-Basses-Terres (sols non consolidés)	46.312528	-72.650667	James Drilling Ltd.	1961	1961
+B177	Verchères No 2, Trois-Rivières	B-Basses-Terres (sols non consolidés)	46.330528	-72.664806	James Drilling Ltd.	1961	1961
+B178	Verchères Oil T-2, Trois-Rivières	B-Basses-Terres (sols non consolidés)	46.340917	-72.661194		1960	1960
+B179	Verchères Oil T-3, Trois-Rivières	B-Basses-Terres (sols non consolidés)	46.340694	-72.661472		1960	1960
+B180	Québec Natural Gas No 1, Saint-François-de-Sales	B-Basses-Terres (sols non consolidés)	45.668083	-73.63375	Canadian LongYear Ltd.	1964	1964
+B181	Québec Natural Gas No 3, Saint-François-de-Sales	B-Basses-Terres (sols non consolidés)	45.670306	-73.647361	Canadian LongYear Ltd.	1964	1964
+B182	Québec Natural Gas No 4, Saint-François-de-Sales	B-Basses-Terres (sols non consolidés)	45.666694	-73.640694	Canadian LongYear Ltd.	1964	1964
+B183	Québec Natural Gas No 5, Saint-François-de-Sales	B-Basses-Terres (sols non consolidés)	45.66975	-73.656528	Canadian LongYear Ltd.	1964	1964
+B184	Québec Natural Gas No 6, Saint-François-de-Sales	B-Basses-Terres (sols non consolidés)	45.667528	-73.66625	Canadian LongYear Ltd.	1964	1964
+B185	Québec Natural Gas No 7, Saint-François-de-Sales	B-Basses-Terres (sols non consolidés)	45.673361	-73.667361	Canadian LongYear Ltd.	1964	1964
+B186	Québec Natural Gas No 8, Saint-François-de-Sales	B-Basses-Terres (sols non consolidés)	45.670306	-73.617083	Canadian LongYear Ltd.	1964	1964
+B187	Québec Natural Gas No 1, Sainte-Rose	B-Basses-Terres (sols non consolidés)	45.656972	-73.69375	Canadian LongYear Ltd.	1964	1964
+B188	Québec Natural Gas No 2, Sainte-Rose	B-Basses-Terres (sols non consolidés)	45.653083	-73.710139	Canadian LongYear Ltd.	1964	1964
+B189	Québec Natural Gas No 1, Saint-Vincent-de-Paul	B-Basses-Terres (sols non consolidés)	45.66225	-73.638194	Canadian LongYear Ltd.	1964	1964
+B190	Québec Natural Gas No 2, Saint-Vincent-de-Paul	B-Basses-Terres (sols non consolidés)	45.655028	-73.677361	Canadian LongYear Ltd.	1964	1964
+B191	Québec Natural Gas No 3, Saint-Vincent-de-Paul	B-Basses-Terres (sols non consolidés)	45.655861	-73.647639	Canadian LongYear Ltd.	1964	1964
+B192	Québec Natural Gas No 4, Saint-Vincent-de-Paul	B-Basses-Terres (sols non consolidés)	45.662806	-73.65625	Canadian LongYear Ltd.	1964	1964
+B193	Québec Natural Gas No 5, Saint-Vincent-de-Paul	B-Basses-Terres (sols non consolidés)	45.644194	-73.641528	Canadian LongYear Ltd.	1964	1964
+B194	Québec Natural Gas No 6, Saint-Vincent-de-Paul	B-Basses-Terres (sols non consolidés)	45.658917	-73.622083	Canadian LongYear Ltd.	1964	1964
+B195	Québec Natural Gas No 7a, Saint-Vincent-de-Paul	B-Basses-Terres (sols non consolidés)	45.652528	-73.630972	Canadian LongYear Ltd.	1964	1964
+B196	Québec Natural Gas No 8, Saint-Vincent-de-Paul	B-Basses-Terres (sols non consolidés)	45.653083	-73.658472	Canadian LongYear Ltd.	1964	1964
+B197	Québec Natural Gas No 9, Saint-Vincent-de-Paul	B-Basses-Terres (sols non consolidés)	45.660306	-73.66375	Canadian LongYear Ltd.	1964	1965
+B198	Senneterre No 1, Saint-Grégoire	B-Basses-Terres (sols non consolidés)	46.217389	-72.507028	G.A. Blair	1964	1964
+B199	Senneterre No 3, Saint-Grégoire	B-Basses-Terres (sols non consolidés)	46.219472	-72.500111	Sixty-Five Development Ltd.	1965	1965
+B200	Senneterre No 7, Saint-Sulpice	B-Basses-Terres (sols non consolidés)	45.815861	-73.373194	Sixty-Five Development Ltd.	1965	1965
+B201	Senneterre No 8, Saint-Sulpice	B-Basses-Terres (sols non consolidés)	45.816139	-73.374028	Sixty-Five Development Ltd.	1965	1965
+B202	Senneterre No 9, Saint-Sulpice	B-Basses-Terres (sols non consolidés)	45.815583	-73.372361	Sixty-Five Development Ltd.	1965	1965
+B203	Senneterre No 10, Saint-Sulpice	B-Basses-Terres (sols non consolidés)	45.817528	-73.37125	Sixty-Five Development Ltd.	1965	1965
+B204	Senneterre No 11, Saint-Sulpice	B-Basses-Terres (sols non consolidés)	45.818361	-73.379306	Sixty-Five Development Ltd.	1965	1965
+B205	Senneterre No 12, Saint-Sulpice	B-Basses-Terres (sols non consolidés)	45.81475	-73.374028	Sixty-Five Development Ltd.	1965	1965
+B206	Senneterre No 13, Saint-Sulpice	B-Basses-Terres (sols non consolidés)	45.813917	-73.374028	Sixty-Five Development Ltd.	1965	1965
+B207	Senneterre No 14, Saint-Sulpice	B-Basses-Terres (sols non consolidés)	45.810583	-73.375139	Sixty-Five Development Ltd.	1965	1965
+B208	Verchères No 2, Louiseville	B-Basses-Terres (sols non consolidés)	46.272528	-72.920389	Samson & Frères Inc.	1965	1965
+B209	Verchères No 3, Louiseville	B-Basses-Terres (sols non consolidés)	46.273361	-72.944	Samson & Frères Inc.	1965	1965
+B210	Verchères No 4, Louiseville	B-Basses-Terres (sols non consolidés)	46.257806	-72.9065	Samson & Frères Inc.	1965	1965
+B211	Verchères No 5, Louiseville	B-Basses-Terres (sols non consolidés)	46.260861	-72.883167	Samson & Frères Inc.	1965	1965
+B212	Verchères No 6, Louiseville	B-Basses-Terres (sols non consolidés)	46.233639	-72.971778	Samson & Frères Inc.	1965	1965
+B213	Verchères No 1, Maskinongé	B-Basses-Terres (sols non consolidés)	46.188083	-73.027056	Samson & Frères Inc.	1965	1965
+B214	Louvicourt No 1, Berthier	B-Basses-Terres (sols non consolidés)	45.895583	-73.375139	Sixty-Five Development Ltd.	1965	1965
+B215	Louvicourt No 2, Berthier	B-Basses-Terres (sols non consolidés)	45.895028	-73.375972	Sixty-Five Development Ltd.	1965	1965
+B216	Louvicourt No 1, L'Assomption	B-Basses-Terres (sols non consolidés)	45.885028	-73.375417	Sixty-Five Development Ltd.	1965	1965
+B217	Louvicourt No 2, L'Assomption	B-Basses-Terres (sols non consolidés)	45.88225	-73.370694	Sixty-Five Development Ltd.	1965	1965
+B218	Louvicourt No 3, L'Assomption	B-Basses-Terres (sols non consolidés)	45.880306	-73.368194	Sixty-Five Development Ltd.	1965	1965
+B219	Louvicourt No 4, L'Assomption	B-Basses-Terres (sols non consolidés)	45.886417	-73.374583	Sixty-Five Development Ltd.	1965	1965
+B220	Louvicourt No 6, L'Assomption	B-Basses-Terres (sols non consolidés)	45.888917	-73.380972	Sixty-Five Development Ltd.	1965	1965
+B221	Laduboro C.I.G. No 1, Sainte-Anne-de-Sorel	B-Basses-Terres (sols non consolidés)	46.071139	-73.012361	Laduboro Oil Ltd.	1965	1965
+B222	Laduboro C.I.G. No 2, Sainte-Anne-de-Sorel	B-Basses-Terres (sols non consolidés)	46.065028	-73.024861	Laduboro Oil Ltd.	1965	1965
+B223	Laduboro C.I.G. No 3, Sainte-Anne-de-Sorel	B-Basses-Terres (sols non consolidés)	46.06725	-73.017917	Laduboro Oil Ltd.	1965	1965
+B224	Laduboro C.I.G. No 4, Sainte-Anne-de-Sorel	B-Basses-Terres (sols non consolidés)	46.071139	-73.012361	Laduboro Oil Ltd.	1965	1965
+B225	Laduboro C.I.G. No 1, Saint-François-du-Lac	B-Basses-Terres (sols non consolidés)	46.125583	-72.935667	Laduboro Oil Ltd.	1965	1965
+B226	Laduboro C.I.G. No 2, Saint-François-du-Lac	B-Basses-Terres (sols non consolidés)	46.115583	-72.947333	Laduboro Oil Ltd.	1965	1965
+B227	Laduboro C.I.G. No 3, Saint-François-du-Lac	B-Basses-Terres (sols non consolidés)	46.10475	-72.9615	Laduboro Oil Ltd.	1965	1965
+B228	New Miller Bald Mountain, Ile aux Barques No 1	B-Basses-Terres (sols non consolidés)	46.075028	-73.01375	H.R. Morris Ltd.	1965	1965
+B229	New Miller Bald Mountain, Ile aux Barques No 2	B-Basses-Terres (sols non consolidés)	46.07475	-73.010972	H.R. Morris Ltd.	1965	1965
+B230	New Miller Bald Mountain, Ile aux Barques No 2a	B-Basses-Terres (sols non consolidés)	46.07475	-73.010972	H.R. Morris Ltd.	1965	1965
+B231	New Miller Bald Mountain, Ile aux Barques No 3	B-Basses-Terres (sols non consolidés)	46.074472	-73.00625	H.R. Morris Ltd.	1965	1965
+B232	New Miller Bald Mountain, Ile aux Barques No 5	B-Basses-Terres (sols non consolidés)	46.076139	-73.000417	H.R. Morris Ltd.	1965	1965
+B233	New Miller Bald Mountain, Ile aux Barques No 6	B-Basses-Terres (sols non consolidés)	46.085028	-73.003472	H.R. Morris Ltd.	1965	1965
+B234	New Miller Bald Mountain, Ile aux Corbeaux No 26	B-Basses-Terres (sols non consolidés)	46.105861	-73.000972	H.R. Morris Ltd.	1965	1965
+B235	New Miller Bald Mountain, Ile aux Ours No 54	B-Basses-Terres (sols non consolidés)	46.110306	-73.04875	H.R. Morris Ltd.	1965	1965
+B236	New Miller Bald Mountain, Ile aux Ours No 54a	B-Basses-Terres (sols non consolidés)	46.110306	-73.04875	H.R. Morris Ltd.	1965	1965
+B237	New Miller Bald Mountain, Ile aux Ours No 54b	B-Basses-Terres (sols non consolidés)	46.110306	-73.04875	H.R. Morris Ltd.	1965	1965
+B238	New Miller Bald Mountain, Ile aux Ours No 75	B-Basses-Terres (sols non consolidés)	46.125306	-73.06375	H.R. Morris Ltd.	1965	1965
+B239	New Miller Bald Mountain, Ile Cardin No 67	B-Basses-Terres (sols non consolidés)	46.138361	-73.034306	H.R. Morris Ltd.	1965	1965
+B240	New Miller Bald Mountain, Ile de Grâce No 23	B-Basses-Terres (sols non consolidés)	46.081694	-73.03375	H.R. Morris Ltd.	1965	1965
+B241	New Miller Bald Mountain, Ile de Grâce No 30	B-Basses-Terres (sols non consolidés)	46.075028	-73.065694	H.R. Morris Ltd.	1965	1965
+B242	New Miller Bald Mountain, Ile de Grâce No 33	B-Basses-Terres (sols non consolidés)	46.076694	-73.050972	H.R. Morris Ltd.	1965	1965
+B243	New Miller Bald Mountain, Ile de Grâce No 33a	B-Basses-Terres (sols non consolidés)	46.076972	-73.050972	H.R. Morris Ltd.	1965	1965
+B244	New Miller Bald Mountain, Ile de Grâce No 33b	B-Basses-Terres (sols non consolidés)	46.076694	-73.050972	H.R. Morris Ltd.	1965	1965
+B245	New Miller Bald Mountain, Ile de Grâce No 33-2a	B-Basses-Terres (sols non consolidés)	46.077806	-73.052917	H.R. Morris Ltd.	1965	1965
+B246	New Miller Bald Mountain, Ile de Grâce No 33-2b	B-Basses-Terres (sols non consolidés)	46.077806	-73.052917	H.R. Morris Ltd.	1965	1965
+B247	New Miller Bald Mountain, Ile Ducharme No 82	B-Basses-Terres (sols non consolidés)	46.115583	-73.092639	H.R. Morris Ltd.	1965	1965
+B248	New Miller Bald Mountain, Ile La Pierre No 13	B-Basses-Terres (sols non consolidés)	46.078639	-73.029583	H.R. Morris Ltd.	1965	1965
+B249	New Miller Bald Mountain, Ile Madame No 62	B-Basses-Terres (sols non consolidés)	46.109194	-73.076528	H.R. Morris Ltd.	1965	1965
+B250	Quebec Natural Gas No 17, Saint-Vincent-de-Paul	B-Basses-Terres (sols non consolidés)	45.661417	-73.642361	Canadian LongYear Ltd.	1965	
+B251	Salem No 2, Dundee	B-Basses-Terres (sols non consolidés)	45.013389	-74.452417	Johnson Drilling Ltd.	1967	1967
+B252	Saint-Thomas-de-Caxton No 1	B-Basses-Terres (sols non consolidés)	45.942528	-73.248472	Sixty-Five Development Ltd.	1972	1972
+B253	SOQUIP Laduboro, Lac Saint-Pierre No 1	B-Basses-Terres (sols non consolidés)	46.272694	-72.721556	Northern Auger Drilling	1972	1972
+B254	SOQUIP Laduboro, Yamachiche No 1	B-Basses-Terres (sols non consolidés)	46.268083	-72.742889	Northern Auger Drilling	1972	1972
+B256	Atlas No 1	B-Basses-Terres (sols non consolidés)	46.406417	-72.847056	Hervé Hélie	1959	1959
+B258	Acroll, Lanoraie No 1	B-Basses-Terres (sols non consolidés)	45.9425	-73.248889	Samson & Frères Inc.	1972	1972
+B260	SOQUIP, Pointe-du-Lac No 1	B-Basses-Terres (sols non consolidés)	46.298833	-72.7075	Géohydrotek Inc.	1985	1985
+B261	SOQUIP, Pointe-du-Lac No 2	B-Basses-Terres (sols non consolidés)	46.300861	-72.7025	Géohydrotek Inc.	1985	1985
+B262	GMi SOQUIP, Pointe-du-Lac No 1	B-Basses-Terres (sols non consolidés)	46.302806	-72.702444	Géohydrotek Inc.	1986	1986
+B263	GMi SOQUIP, Pointe-du-Lac No 1a	B-Basses-Terres (sols non consolidés)	46.300778	-72.702611	Géohydrotek Inc.	1986	1986
+B264	GMi SOQUIP, Pointe-du-Lac No 2	B-Basses-Terres (sols non consolidés)	46.300972	-72.702611	Géohydrotek Inc.	1986	1986
+B265	GMi SOQUIP, Pointe-du-Lac No 3	B-Basses-Terres (sols non consolidés)	46.301222	-72.703361	Géohydrotek Inc.	1986	1986
+B266	Massé et al., Saint-Maurice No 1	B-Basses-Terres (sols non consolidés)	46.434722	-72.522361	Géohydrotek Inc.	1987	1987
+B267	Jaltin Lemaire, Yamachiche No 1	B-Basses-Terres (sols non consolidés)	46.265028	-72.867278	Géohydrotek Inc.	1987	1987
+B267A	Jaltin Lemaire, Yamachiche No 1a	B-Basses-Terres (sols non consolidés)	46.276389	-72.867778	Géohydrotek Inc.	1987	1987
+B268	Jaltin Lemaire, Yamachiche No 2	B-Basses-Terres (sols non consolidés)	46.269083	-72.856972	Géohydrotek Inc.	1987	1987
+B268A	Jaltin Lemaire, Yamachiche No 2a	B-Basses-Terres (sols non consolidés)	46.269083	-72.856972	Géohydrotek Inc.	1987	1987
+B269	Jaltin Lemaire, Louiseville No 1	B-Basses-Terres (sols non consolidés)	46.259028	-72.951472	Foragaz Inc.	1988	1988
+B270	PSP, Lac Saint-Pierre No 1	B-Basses-Terres (sols non consolidés)	46.265778	-72.744528	Géohydrotek Inc.	1988	1988
+B271	PSP, Lac Saint-Pierre No 2	B-Basses-Terres (sols non consolidés)	46.181806	-72.823	Géohydrotek Inc.	1988	1988
+B272	Jaltin Lemaire, Yamachiche No 3	B-Basses-Terres (sols non consolidés)	46.264722	-72.867222	Foragaz Inc.	1989	1989
+B273	Jaltin Lemaire, Yamachiche No 4	B-Basses-Terres (sols non consolidés)	46.265	-72.865833	Foragaz Inc.	1989	1989
+B274	Jaltin Lemaire, Yamachiche No 5	B-Basses-Terres (sols non consolidés)	46.263889	-72.865278	Foragaz Inc.	1989	1989
+B275	Jaltin Lemaire, Yamachiche No 6	B-Basses-Terres (sols non consolidés)	46.265278	-72.867778	Foragaz Inc.	1989	1989
+B276	Jaltin Lemaire, Yamachiche No 7	B-Basses-Terres (sols non consolidés)	46.263056	-72.866944	Foragaz Inc.	1989	1989
+B277	SOQUIP Consulgaz, Pointe-du-Lac No 1	B-Basses-Terres (sols non consolidés)	46.301306	-72.701083	Géohydrotek Inc.	1990	1990
+B278	SOQUIP Consulgaz, Pointe-du-Lac No 2	B-Basses-Terres (sols non consolidés)	46.302	-72.700528	Géohydrotek Inc.	1990	1990
+B279	SOQUIP Consulgaz, Pointe-du-Lac No 3	B-Basses-Terres (sols non consolidés)	46.295083	-72.705861	Géohydrotek Inc.	1990	1990
+B280	SOQUIP Consulgaz, Pointe-du-Lac No 4	B-Basses-Terres (sols non consolidés)	46.294917	-72.704278	Géohydrotek Inc.	1990	1990
+B281	SOQUIP Consulgaz, Pointe-du-Lac No 5	B-Basses-Terres (sols non consolidés)	46.295139	-72.707389	Géohydrotek Inc.	1990	1990
+B282	SOQUIP Consulgaz, Pointe-du-Lac No 6	B-Basses-Terres (sols non consolidés)	46.300444	-72.701389	Géohydrotek Inc.	1990	1990
+B283	SOQUIP Consulgaz, Pointe-du-Lac No 7	B-Basses-Terres (sols non consolidés)	46.295972	-72.705444	Géohydrotek Inc.	1990	1990
+B284	SOQUIP Consulgaz, Pointe-du-Lac No 8	B-Basses-Terres (sols non consolidés)	46.29425	-72.706722	Géohydrotek Inc.	1990	1990
+B285	SOQUIP Consulgaz, Pointe-du-Lac No 9	B-Basses-Terres (sols non consolidés)	46.297	-72.704333	Géohydrotek Inc.	1990	1990
+B286	SOQUIP Consulgaz, Pointe-du-Lac No 10	B-Basses-Terres (sols non consolidés)	46.297639	-72.704361	Géohydrotek Inc.	1990	1990
+B287	SOQUIP Consulgaz, Pointe-du-Lac No 11	B-Basses-Terres (sols non consolidés)	46.293361	-72.707417	Géohydrotek Inc.	1990	1990
+B288	SOQUIP Consulgaz, Pointe-du-Lac No 12	B-Basses-Terres (sols non consolidés)	46.297167	-72.705222	Géohydrotek Inc.	1990	1990
+B289	SOQUIP Consulgaz, Pointe-du-Lac No 13	B-Basses-Terres (sols non consolidés)	46.292583	-72.708417	Foragaz Inc.	1990	1990
+B290	SOQUIP Consulgaz, Pointe-du-Lac No 14	B-Basses-Terres (sols non consolidés)	46.302611	-72.702861	Foragaz Inc.	1990	1990
+B291	SOQUIP Consulgaz, Pointe-du-Lac No 15	B-Basses-Terres (sols non consolidés)	46.296056	-72.706917	Géohydrotek Inc.	1990	1990
+B292	SOQUIP Consulgaz, Pointe-du-Lac No 16	B-Basses-Terres (sols non consolidés)	46.297028	-72.706111	Géohydrotek Inc.	1990	1990
+B293	SOQUIP Consulgaz, Pointe-du-Lac No 17	B-Basses-Terres (sols non consolidés)	46.294278	-72.708028	Géohydrotek Inc.	1990	1990
+B294	SOQUIP Consulgaz, Pointe-du-Lac No 18	B-Basses-Terres (sols non consolidés)	46.293861	-72.696611	Géohydrotek Inc.	1990	1990
+B295	Intragaz, Pointe-du-Lac No 1	B-Basses-Terres (sols non consolidés)	46.297361	-72.70475	Géohydrotek Inc.	1992	1992
+B296	Intragaz, Pointe-du-Lac No 2	B-Basses-Terres (sols non consolidés)	46.288861	-72.697528	Géohydrotek Inc.	1992	1992
+B297	Intragaz, Pointe-du-Lac No 3	B-Basses-Terres (sols non consolidés)	46.3155	-72.691278	Géohydrotek Inc.	1992	1992
+B298	Intragaz, Pointe-du-Lac No 4	B-Basses-Terres (sols non consolidés)	46.325139	-72.689861	Géohydrotek Inc.	1992	1992
+B299	SOQUIP Cascades Énergie, Yamachiche No 1	B-Basses-Terres (sols non consolidés)	46.274111	-72.832722	Ralex Inc.	1993	1993
+B300	Intragaz, Pointe-du-Lac No 5	B-Basses-Terres (sols non consolidés)	46.323417	-72.687056	Foragaz Inc.	1994	1995
+B301	Intragaz, Pointe-du-Lac No 6	B-Basses-Terres (sols non consolidés)	46.312917	-72.692667	Ralex Inc.	1996	1996
+B302	Intragaz, Pointe-du-Lac No 7	B-Basses-Terres (sols non consolidés)	46.301139	-72.698028	Ralex Inc.	1996	1996
+B303	Junex, St-Barnabé Nord No 1	B-Basses-Terres (sols non consolidés)	46.43575	-72.881833	Foragaz Inc.	2000	2000
+B304	Junex, St-Barnabé Nord No 2	B-Basses-Terres (sols non consolidés)	46.438167	-72.889139	Foragaz Inc.	2000	2000
+B305	Intragaz, Baie-des-Mines No 1	B-Basses-Terres (sols non consolidés)	46.393972	-72.750889	Cora Lynn Drilling Company Ltd.	2004	2004
+B306	Intragaz, Pointe-du-Lac No 8	B-Basses-Terres (sols non consolidés)	46.317222	-72.691806	Foragaz Inc.	2009	2009
+BZ01	Géo Demers Forage Trois-Rivières No D-01	B-Basses-Terres (sols non consolidés)	46.383361	-72.532889		0	0
+BZ02	Géo Demers Forage Trois-Rivières No D-02	B-Basses-Terres (sols non consolidés)	46.383361	-72.532889		0	0
+BZ03	Géo Demers Forage Trois-Rivières No D-03	B-Basses-Terres (sols non consolidés)	46.383361	-72.532889		0	0
+BZ04	Géo Demers Forage Trois-Rivières No D-04	B-Basses-Terres (sols non consolidés)	46.383361	-72.532889		0	0
+BZ05	Géo Demers Forage Trois-Rivières No 5	B-Basses-Terres (sols non consolidés)	46.383361	-72.532889		0	0
+BZ06	Géo Demers Forage Trois-Rivières No 12	B-Basses-Terres (sols non consolidés)	46.383361	-72.532889		0	0
+BZ07	Géo Demers Forage Trois-Rivières No 14	B-Basses-Terres (sols non consolidés)	46.383361	-72.532889		0	0
+BZ08	Géo Demers Forage Trois-Rivières No 16	B-Basses-Terres (sols non consolidés)	46.383361	-72.532889		0	0
+BZ09	Frères de l'Instruction Chrétienne No 3	B-Basses-Terres (sols non consolidés)	46.291694	-72.710667		1960	1960
+BZ10	Frères de l'Instruction Chrétienne No 4	B-Basses-Terres (sols non consolidés)	46.291694	-72.710667		1960	1960
+BZ11	Motel Bettez	B-Basses-Terres (sols non consolidés)	46.291694	-72.710667		1960	1960
+BZ12	Lanoraie Oil and Gas Syndicate No 1	B-Basses-Terres (sols non consolidés)	45.942528	-73.249028	Alexander Diamond Drilling Company Ltd.	1930	1930
+BZ13	Lanoraie Oil and Gas Syndicate No 2	B-Basses-Terres (sols non consolidés)	45.942528	-73.248194	Alexander Diamond Drilling Company Ltd.	1930	1930
+BZ14	Lanoraie Oil and Gas Syndicate No 3	B-Basses-Terres (sols non consolidés)	45.942528	-73.249861	Alexander Diamond Drilling Company Ltd.	1930	1930
+BZ15	Lanoraie Oil and Gas Syndicate No 4	B-Basses-Terres (sols non consolidés)	45.945306	-73.249028	Alexander Diamond Drilling Company Ltd.	1930	1930
+BZ16	Trinidad No 1	B-Basses-Terres (sols non consolidés)	45.942528	-73.249028	Alexander Diamond Drilling Company Ltd.	1931	1931
+BZ17	Dr. Lapierre	B-Basses-Terres (sols non consolidés)	45.775028	-73.357917		1944	1944
+BZ18	Baril No 1	B-Basses-Terres (sols non consolidés)	45.856417	-73.404806		1942	1942
+BZ19	Baril No 2	B-Basses-Terres (sols non consolidés)	45.856778	-73.404556		1943	1943
+BZ20	Baril No 3	B-Basses-Terres (sols non consolidés)	45.857139	-73.404278		1945	1945
+C001	Associated Developments No 1, Baillargeon	C-Gaspésie	48.802833	-64.660722	Associated Developments Ltd.	1959	1960
+C002	Associated Developments, Causapscal No 1	C-Gaspésie	48.380056	-67.254972	Heath & Sherwood Drilling Ltd.	1958	1958
+C003	Bald Mountain No 2	C-Gaspésie	48.950889	-65.091861	Bald Mountain Oil Co.	1951	1952
+C004	C.P.C. No 1	C-Gaspésie	48.829222	-64.8535		1899	1899
+C005	C.P.C. No 2	C-Gaspésie	48.827833	-64.854333		1899	1899
+C006	C.P.C. No 3	C-Gaspésie	48.845889	-64.644611		1899	1899
+C007	C.P.C. No 4	C-Gaspésie	48.829222	-64.851556		1899	1901
+C008	C.P.C. No 5	C-Gaspésie	48.826444	-64.851		1900	1900
+C009	C.P.C. No 6	C-Gaspésie	48.827556	-64.857111		1900	1900
+C010	C.P.C. No 7	C-Gaspésie	48.849167	-64.626278		1899	1899
+C011	C.P.C. No 8	C-Gaspésie	48.826806	-64.86175		1900	1900
+C012	C.P.C. No 9	C-Gaspésie	48.845611	-64.627944		1900	1900
+C013	C.P.C. No 10	C-Gaspésie	48.841861	-64.640556		1901	1901
+C014	C.P.C. No 11	C-Gaspésie	48.826722	-64.840444		1901	1901
+C015	C.P.C. No 12	C-Gaspésie	48.797806	-64.948		1901	1901
+C016	Haldimand No 1	C-Gaspésie	48.7995	-64.444333	Wilfrid Robert McMaster	1941	1942
+C017	Mississippi No 1	C-Gaspésie	48.872278	-64.972111	Compagnie d'exploration de Gaspé Ltée	1939	1940
+C018	Asphalt Base No 1	C-Gaspésie	48.833667	-64.812944	Vern M. Gloss	1953	1953
+C019	Continental, Gaspé No 1	C-Gaspésie	48.851972	-64.761333	Burns Drilling Co.	1948	1949
+C020	Continental, Gaspé Deep Test No 1	C-Gaspésie	48.848611	-64.773611	Vern M. Gloss	1951	1953
+C021	C.P.L. No 1	C-Gaspésie	48.848944	-64.762111	Wilfrid Robert McMaster	1943	1948
+C022	C.P.L. No 2	C-Gaspésie	48.835611	-64.867389	Wilfrid Robert McMaster	1944	1944
+C023	Impérial, Gaspé No 1	C-Gaspésie	48.945056	-65.095472	E.M. Shields, Butler	1947	1947
+C024	E.C.C. No 1	C-Gaspésie	48.651611	-64.425917		1913	1913
+C025	Campbell	C-Gaspésie	48.847556	-64.683778		1860	1860
+C026	G.B.M. No 1	C-Gaspésie	48.769778	-64.414611		1860	1860
+C027	Conant (Adams)	C-Gaspésie	48.811889	-64.442778	Wilfrid Robert McMaster	1865	1945
+C028	Venture No 1	C-Gaspésie	48.902833	-64.724333	Wilfrid Robert McMaster	1946	1946
+C029	Venture No 2	C-Gaspésie	48.895611	-64.721	E.M. Shields, Butler	1947	1947
+C030	Venture No 3	C-Gaspésie	48.895611	-64.721	E.M. Shields, Butler	1948	1948
+C031	I.O.C. No 1	C-Gaspésie	48.8385	-64.787861		1888	1888
+C032	C2	C-Gaspésie	48.811167	-64.446833	Wilfrid Robert McMaster	1945	1945
+C033	M.P.G. No 1	C-Gaspésie	48.883667	-64.5135	Dubé & Frères	1937	1938
+C034	P.C. No 1	C-Gaspésie	48.926333	-65.451667	New Peninsular Oil Ltd.	1945	1954
+C035	P.O.T. No 1	C-Gaspésie	48.812	-64.443889		1889	1891
+C036	P.O.T. No 2	C-Gaspésie	48.816389	-64.441333		1890	1890
+C037	P.O.T. No 3	C-Gaspésie	48.790611	-64.392389		1890	1890
+C038	P.O.T. No 4	C-Gaspésie	48.735639	-64.331222		1890	1891
+C039	P.O.T. No 5	C-Gaspésie	48.843222	-64.6365		1891	1892
+C040	P.O.T. No 6	C-Gaspésie	48.8245	-64.747944		1892	1892
+C041	P.O.T. No 7	C-Gaspésie	48.840056	-64.645278		1892	1893
+C042	P.O.T. No 8	C-Gaspésie	48.816167	-64.445167		1892	1893
+C043	P.O.T. No 9	C-Gaspésie	48.870333	-64.560167		1894	1894
+C044	P.O.T. No 10	C-Gaspésie	48.847556	-64.627389		1895	1895
+C045	P.O.T. No 11	C-Gaspésie	48.844722	-64.648833		1893	1895
+C046	P.O.T. No 12	C-Gaspésie	48.836167	-64.637667		1894	1895
+C047	P.O.T. No 13	C-Gaspésie	48.847778	-64.635806		1894	1895
+C048	P.O.T. No 14	C-Gaspésie	48.843944	-64.649333		1895	1897
+C049	P.O.T. No 15	C-Gaspésie	48.852222	-64.64475		1895	1895
+C050	P.O.T. No 16	C-Gaspésie	48.839528	-64.723861		1894	1894
+C051	P.O.T. No 17	C-Gaspésie	48.8335	-64.856806		1895	1897
+C052	P.O.T. No 18	C-Gaspésie	48.833944	-64.850444		1895	1896
+C053	P.O.T. No 19	C-Gaspésie	48.831722	-64.860167		1895	1896
+C054	P.O.T. No 20	C-Gaspésie	48.835694	-64.869528		1896	1896
+C055	P.O.T. No 21	C-Gaspésie	48.842222	-64.875278		1896	1897
+C056	P.O.T. No 22	C-Gaspésie	48.869778	-64.702944		1896	1897
+C057	P.O.T. No 23	C-Gaspésie	48.762278	-64.536556		1896	1897
+C058	P.O.T. No 24	C-Gaspésie	48.761722	-64.565167		1896	1896
+C059	P.O.T. No 25	C-Gaspésie	48.793556	-64.823167		1895	1897
+C060	P.O.T. No 26	C-Gaspésie	48.778667	-64.626		1896	1896
+C061	P.O.T. No 27	C-Gaspésie	48.827833	-64.852111		1897	1897
+C062	P.O.T. No 28	C-Gaspésie	48.827528	-64.972083		1897	1898
+C063	P.O.T. No 29	C-Gaspésie	48.824667	-64.853611		1897	1897
+C064	P.O.T. No 30	C-Gaspésie	48.827694	-64.872806		1898	1899
+C065	P.O.T. No 31	C-Gaspésie	48.822	-64.861278		1898	1899
+C066	P.O.T. No 32	C-Gaspésie	48.828111	-64.843778		1899	1899
+C067	P.O.T. No 33	C-Gaspésie	48.8195	-64.888778		1899	1901
+C068	P.O.T. No 34	C-Gaspésie	48.829222	-64.855556		1900	1900
+C069	P.O.T. No 35	C-Gaspésie	48.832583	-64.893389		1901	1901
+C070	P.O.T. No 36	C-Gaspésie	48.861722	-64.647944		1901	1901
+C071	P.O.T. No 37	C-Gaspésie	48.864028	-64.715944		1901	1902
+C072	P.O.T. No 38	C-Gaspésie	48.8595	-64.703778		1901	1902
+C074	P.O.T. No 40	C-Gaspésie	48.832	-65.016		1901	1901
+C075	P.O.T. No 41	C-Gaspésie	48.843111	-64.801278		1902	1903
+C076	P.O.T. No 42	C-Gaspésie	48.843333	-64.796833		1903	1903
+C077	Québec Oil No 1	C-Gaspésie	48.670333	-64.795444	Vern M. Gloss	1949	1951
+C078	Québec Oil No 2	C-Gaspésie	48.656444	-64.801278	L.J. Higginbotham	1951	1953
+C079	Tar Point No 1	C-Gaspésie	48.728667	-64.332111	Vern M. Gloss	1950	1954
+C080	Non identifié	C-Gaspésie	48.842472	-64.638778		0	0
+C081	Impérial Lowlands Associated No 1, York	C-Gaspésie	48.729778	-64.641278	Heath & Sherwood Drilling Ltd.	1961	1961
+C082	Impérial Lowlands California Standard No 1, Lesseps	C-Gaspésie	48.825333	-65.820194	Heath & Sherwood Drilling Ltd.	1962	1962
+C083	New Peninsular Oil No 2, Holland	C-Gaspésie	48.950611	-65.445472	Heath & Sherwood Drilling Ltd.	1964	1964
+C084	New Peninsular Oil No 3, Holland	C-Gaspésie	48.927833	-65.451306	Samson & Frères Inc.	1965	1965
+C085	New Peninsular Oil No 5, Holland	C-Gaspésie	48.938944	-65.451861	Camille Blais	1966	1966
+C086	Sun Exploration et al. No 1, La Rédemption	C-Gaspésie	48.427833	-67.855	Petrolia Drilling Ltd.	1967	1968
+C087	Gulf, Sunny Bank No 1	C-Gaspésie	48.857278	-64.677111	Heath & Sherwood Drilling Ltd.	1969	1970
+C088	Sun Exploration et al., Mitis No 1	C-Gaspésie	48.357278	-67.92	Petrolia Drilling Ltd.	1969	1969
+C090	Great Plains Noël et al., La Vérendrye No 1	C-Gaspésie	48.4445	-66.946639	General Petroleum Ltd	1972	1973
+C092	SOQUIP Aigle d'Or et al., Gastonguay No 1	C-Gaspésie	48.785611	-65.399361	Regent Drilling Ltd.	1976	1976
+C093	SOQUIP, Gaspé sud No 1	C-Gaspésie	48.831444	-64.548222	Regent Drilling Ltd.	1978	1978
+C094	SOQUIP, Malbaie No 1	C-Gaspésie	48.658806	-64.263528	Regent Drilling Ltd.	1979	1979
+C096	SOQUIP, Blanchet No 1	C-Gaspésie	48.979972	-64.818333	Regent Drilling Ltd.	1979	1979
+C097	SOQUIP, Douglas No 1	C-Gaspésie	48.804167	-64.394528	Regent Drilling Ltd.	1979	1979
+C099	SOQUIP Pétrofina, Baie-de-Gaspé-Nord No 1	C-Gaspésie	48.899056	-64.514417	Regent Drilling Ltd.	1981	1981
+C100	SOQUIP Pétro-Canada Impériale, Galt No 1	C-Gaspésie	48.857417	-64.746361	Regent Drilling Ltd.	1983	1983
+C100-R1	SOQUIP Pétro-Canada Impériale, Galt No 1	C-Gaspésie	48.857417	-64.746361	Foragaz Inc.	1993	1993
+C101	CMG, Galt No 1	C-Gaspésie	48.83875	-64.786417	Les Forages Élite Inc.	1983	1983
+C102	CMG, Galt No 2 (84-02)	C-Gaspésie	48.841139	-64.797083	Les Forages Élite Inc.	1984	1984
+C103	CMG, Galt No 3 (84-04)	C-Gaspésie	48.838611	-64.789361		1984	1984
+C104	CMG, Galt No 4 (84-07)	C-Gaspésie	48.836389	-64.786667	Les Forages Élite Inc.	1984	1984
+C105	CMG, Galt No 5 (84-08)	C-Gaspésie	48.839389	-64.790194	Les Forages Élite Inc.	1984	1984
+C106	CMG, Galt No 6	C-Gaspésie	48.840694	-64.789611	Les Forages Élite Inc.	1984	1984
+C107	Pétro Gaspé, Galt No 1	C-Gaspésie	48.841333	-64.79		1984	1984
+C108	Pétro Gaspé, Galt No 2	C-Gaspésie	48.8385	-64.786444		1984	1984
+C109	Pétro Gaspé, Galt No 3	C-Gaspésie	48.839278	-64.787972		1984	1984
+C110	Pétro Gaspé, Galt No 4	C-Gaspésie	48.8385	-64.787833		1984	1984
+C111	CMG, Galt No 7 (PG-5)	C-Gaspésie	48.8385	-64.787833	Les Forages Élite Inc.	1984	1984
+C113	Gaspésie, Galt No 1 (85-12)	C-Gaspésie	48.839417	-64.793944	Forages Élite (forage) / Foragaz (fermeture)	1985	1985
+C114	Gaspésie, Galt No 2	C-Gaspésie	48.841111	-64.797	Foratek et Forages Élite	1985	1985
+C115	Pétro Gaspé, Galt No 5	C-Gaspésie	48.841111	-64.797	Géohydrotek Inc.	1987	1987
+C116	Pétro Gaspé, Galt No 6	C-Gaspésie	48.838583	-64.793333	Géohydrotek Inc.	1987	1987
+C117	Pétro Gaspé, Galt No 7	C-Gaspésie	48.838583	-64.793333	Géohydrotek Inc.	1988	1989
+C118	Jaltin, Galt No 1	C-Gaspésie	48.856944	-64.752778	Foragaz Inc.	1990	1991
+C119	Corridor, Lac Matapédia No 1	C-Gaspésie	48.515444	-67.519444	Major Kennebec Drilling	1996	1996
+C120	Corridor, Rivière à la Truite No 1	C-Gaspésie	48.645667	-66.969056	Foragaz Inc.	1999	1999
+C121	Prospection 2000, Lac Matapédia No 1	C-Gaspésie	48.493667	-67.544694	Canadian LongYear Ltd.	1999	1999
+C122	Junex et al., Galt No 1	C-Gaspésie	48.853361	-64.749389	Foragaz Inc.	1999	1999
+C123	SPPG, Lac Matapédia No 1	C-Gaspésie	48.500778	-67.537556	East Coast Drilling	2000	2000
+C124	Junex Lemaire Hydro-Québec, Galt No 2	C-Gaspésie	48.848833	-64.741944	Doubil Inc.	2002	2002
+C124-R1	Junex Lemaire Hydro-Québec, Galt No 2	C-Gaspésie	48.848833	-64.741944	Doubil Inc.	2003	2003
+C125	Bartech, Lac Matapédia No 1	C-Gaspésie	48.493611	-67.544667	Forage Benoît	2002	2002
+C126	Junex Lemaire Hydro-Québec, Galt No 3	C-Gaspésie	48.853083	-64.750333	Doubil Inc.	2003	2003
+C127	Hydro-Québec Pétrole et gaz, Miguasha No 1	C-Gaspésie	48.076694	-66.294778	Doubil Inc.	2004	2004
+C128	Hydro-Québec Pétrole et gaz, Miguasha-Ouest No 1	C-Gaspésie	48.105611	-66.3415	Doubil Inc.	2004	2004
+C129	Pétrolia, Le Ber No 1	C-Gaspésie	48.835667	-64.868139	Foragaz Inc.	2005	2005
+C130	Pétrolia, Wakeham No 1	C-Gaspésie	48.855306	-64.659833	Foragaz Inc.	2005	2005
+C131	Pétrolia, Haldimand No 1	C-Gaspésie	48.80525	-64.422833	Foragaz Inc.	2005	2006
+C132	Junex Lemaire, Baillargeon No 1	C-Gaspésie	48.824361	-64.731528	Foragaz Inc.	2006	2006
+C133	Junex, Paspébiac No 1	C-Gaspésie	48.127583	-65.324639	Foragaz Inc.	2007	2007
+C134	Pétrolia, Haldimand No 2	C-Gaspésie	48.809333	-64.434833	Savanna Drilling	2009	2009
+C135	Pétrolia, Tar Point No 1	C-Gaspésie	48.724528	-64.307917	Savanna Drilling	2009	2009
+C136	Abba Quebec Resources, Mont-Alexandre No 1	C-Gaspésie	48.558361	-65.293306	Black Watch Drilling	2009	2009
+C139	Junex, Galt No 4	C-Gaspésie	48.848111	-64.778639	Foragaz Inc.	2012	2012
+C139-R1	Junex, Galt No 4	C-Gaspésie	48.848111	-64.778639	Foragaz Inc.	0	0
+C140	Pétrolia, Haldimand No 3	C-Gaspésie	48.805556	-64.418611	Akita Drilling Ltd	0	0
+C141	Pétrolia, Bourque No 1	C-Gaspésie	49.002222	-65.101389	Akita Drilling Ltd	2012	2012
+C142	Pétrolia, Bourque No 2	C-Gaspésie	49.033333	-65.085556	Akita Drilling Ltd	2012	2012
+C143	Pétrolia, Haldimand No 4	C-Gaspésie	48.813167	-64.444639	Akita Drilling Ltd	0	0
+C144	Gastem, Ristigouche-Partie-Sud-Est No 1	C-Gaspésie	48.033333	-66.821333	Precision Drilling Corp.	0	0
+C145	Junex, Galt HZ No 5	C-Gaspésie	48.846278	-64.783611	Foragaz Inc.	0	0
+CS01	83-01	C-Gaspésie	48.841139	-64.797083		1983	1983
+CS02	83-02	C-Gaspésie	48.840833	-64.797778		1983	1983
+CS03	83-03 (1983FCS03)	C-Gaspésie	48.840972	-64.795833		1983	1983
+CS04	83-04	C-Gaspésie	48.842028	-64.794		1983	1983
+CS05	83-05	C-Gaspésie	48.84325	-64.792639		1983	1983
+CS06	83-06	C-Gaspésie	48.838611	-64.786806		1983	1983
+CS07	83-07 (1983FCS07)	C-Gaspésie	48.839167	-64.78825		1983	1983
+CS08	83-08 (1983FCS08)	C-Gaspésie	48.838833	-64.789361		1983	1983
+CS09	84-01	C-Gaspésie	48.841139	-64.797083		1984	1984
+CS10	84-02	C-Gaspésie	48.841139	-64.797083		1984	1984
+CS11	84-03	C-Gaspésie	48.841139	-64.797083		1984	1984
+CS12	84-04	C-Gaspésie	48.838889	-64.788889		1984	1984
+CS13	84-05	C-Gaspésie	48.836389	-64.786944		1984	1984
+CS14	84-06	C-Gaspésie	48.836111	-64.787222		1984	1984
+CS17	84-09	C-Gaspésie	48.839389	-64.790194		1984	1984
+CS18	84-10	C-Gaspésie	48.839861	-64.790139		1984	1984
+CS19	84-11	C-Gaspésie	48.842222	-64.792639		1984	1984
+CS20	84-12	C-Gaspésie	48.839139	-64.789667		1984	1984
+CS21	84-13 (1984FCS21)	C-Gaspésie	48.839139	-64.789667		1984	1984
+CS22	84-14	C-Gaspésie	48.839444	-64.791944		1984	1984
+CS23	84-15	C-Gaspésie	48.838333	-64.790556		1984	1984
+CS24	84-16	C-Gaspésie	48.838333	-64.790556		1984	1984
+CS25	85-01	C-Gaspésie	48.838583	-64.787667	Les Forages Élite Inc.	1985	1985
+CS26	85-02	C-Gaspésie	48.8375	-64.785944	Les Forages Élite Inc.	1985	1985
+CS27	85-03	C-Gaspésie	48.837528	-64.785833	Les Forages Élite Inc.	1985	1985
+CS28	85-04 (1985FCS28)	C-Gaspésie	48.838139	-64.784722	Les Forages Élite Inc.	1985	1985
+CS29	85-05 (1985FCS29)	C-Gaspésie	48.840722	-64.790917	Les Forages Élite Inc.	1985	1985
+CS30	85-06	C-Gaspésie	48.839861	-64.790278	Les Forages Élite Inc.	1985	1985
+CS31	85-07	C-Gaspésie	48.838889	-64.790833	Les Forages Élite Inc.	1985	1985
+CS32	85-08 (1985FCS32)	C-Gaspésie	48.842944	-64.798861	Les Forages Élite Inc.	1985	1985
+CS33	85-09 (1985FCS33)	C-Gaspésie	48.842944	-64.798861	Les Forages Élite Inc.	1985	1985
+CS34	85-10	C-Gaspésie	48.84	-64.797222	Les Forages Élite Inc.	1985	1985
+CS35	85-11	C-Gaspésie	48.971917	-64.789611	Les Forages Élite Inc.	1985	1985
+CS37	85-13	C-Gaspésie	48.837861	-64.791806	Les Forages Élite Inc.	1985	1985
+CS38	85-14	C-Gaspésie	48.837	-64.787833	Les Forages Élite Inc.	1985	1985
+CS39	85-15	C-Gaspésie	48.844917	-64.799833	Les Forages Élite Inc.	1985	1985
+CS40	85-16	C-Gaspésie	48.846778	-64.802889	Les Forages Élite Inc.	1985	1985
+CS41	85-17	C-Gaspésie	48.838639	-64.790444	Les Forages Élite Inc.	1985	1985
+CS42	85-18	C-Gaspésie	48.841389	-64.795139	Les Forages Élite Inc.	1985	1985
+CS43	85-19	C-Gaspésie	48.838583	-64.791222	Les Forages Élite Inc.	1985	1985
+CS44	MB-1	C-Gaspésie	48.890833	-64.856667		1985	1985
+CS45	SB-1	C-Gaspésie	48.812361	-64.443222		1985	1985
+CS46	SB-2	C-Gaspésie	48.81275	-64.443472		1985	1985
+CS47	SB-3	C-Gaspésie	48.81275	-64.443472		1985	1985
+CS48	SB-4	C-Gaspésie	48.812806	-64.4465		1985	1985
+CS49	SB-5	C-Gaspésie	48.812667	-64.443861		1985	1985
+CS50	SB-6	C-Gaspésie	48.81275	-64.443472		1985	1985
+CS51	85-20	C-Gaspésie	48.841111	-64.799722	Foragaz (fermeture)	1985	1985
+CZ006	Squatex Saint-Moïse	C-Gaspésie	48.5025	-67.8145		2010	2010
+CZ007	SQX #P	C-Gaspésie	48.463083	-67.801389		2010	2010
+CZ008	SQX #03	C-Gaspésie	48.309361	-67.998167		2010	2010
+CZ009	SQX #05	C-Gaspésie	48.27225	-67.962667		2010	2010
+CZ01	Kennco-Gaspé No 1	C-Gaspésie	48.733389	-64.533778		1956	1956
+CZ010	SQX #06	C-Gaspésie	48.256389	-67.066667		2010	2010
+CZ011	SQX #10	C-Gaspésie	48.459389	-67.798667		2010	2010
+CZ012	La Rédemption	C-Gaspésie	48.454222	-67.893139		2011	2011
+CZ013	Du Portage	C-Gaspésie	48.446722	-67.9935		2011	2011
+CZ014	Squatex, Massé No 1	C-Gaspésie	48.256389	-68.066667		2010	2010
+CZ015	Squatex, Sayabec No 1	C-Gaspésie	48.531806	-67.697611		0	0
+CZ016	Squatex, Marleau No 1	C-Gaspésie	48.3965	-67.958611		0	0
+CZ017	Squatex, Massé No 2	C-Gaspésie	48.4245	-67.994444		0	0
+CZ018	Pétrolia, La Vérendrye 2013	C-Gaspésie	48.438306	-66.948139		2013	2013
+CZ02	Kennco-Gaspé No 2	C-Gaspésie	48.7345	-64.532111		1956	1956
+CZ03	Kennco-Gaspé No 3	C-Gaspésie	48.738111	-64.525444		1956	1956
+CZ04	Kennco-Gaspé No 4	C-Gaspésie	48.742278	-64.525722		1956	1956
+CZ05	Gaspé Basin - Bishop Ross	C-Gaspésie	48.833389	-64.516		0	0
+D001	Lowlands Gamache, Carleton Point No 1	D-Anticosti / Estuaire du St-Laurent	49.708389	-62.932639	Heath & Sherwood Drilling Ltd.	1963	1964
+D002	Lowlands Gamache, Princeton Lake No 1	D-Anticosti / Estuaire du St-Laurent	49.8695	-64.200722	Heath & Sherwood Drilling Ltd.	1963	1963
+D003	New Associated Con-Paper, Anticosti No 1	D-Anticosti / Estuaire du St-Laurent	49.622278	-63.438194	Heath & Sherwood Drilling Ltd.	1962	1963
+D004	Lowlands Gamache, Oil River No 1	D-Anticosti / Estuaire du St-Laurent	49.741722	-63.511806	Imperial Oil Ltd.	1965	1965
+D005	Lowlands Gamache, Highcliff No 1	D-Anticosti / Estuaire du St-Laurent	49.858389	-63.86875	Imperial Oil Ltd.	1965	1965
+D006	New Associated, Jupiter Anticosti No 1	D-Anticosti / Estuaire du St-Laurent	49.620889	-63.439583	Chevalier and Tremblay Drilling Co.	1965	1965
+D007	ARCO, Anticosti No 1	D-Anticosti / Estuaire du St-Laurent	49.388389	-63.524028	Garnett Drilling Ltd.	1970	1970
+D010	SOQUIP Scurry Rainbow, Sandtop No 1 (Anticosti)	D-Anticosti / Estuaire du St-Laurent	49.199806	-61.752028	Regent Drilling Ltd.	1974	1974
+D011	Consolidated, Anticosti Brick No 1	D-Anticosti / Estuaire du St-Laurent	49.372556	-63.450972	Foragaz Inc.	1987	1987
+D012	Shell Encal Corridor, Roliff No 1	D-Anticosti / Estuaire du St-Laurent	49.539778	-63.35	Ralex Inc.	1998	1998
+D013	Shell et al., Jupiter No 1	D-Anticosti / Estuaire du St-Laurent	49.593389	-63.416806	Ralex Inc.	1998	1998
+D014	Shell Encal Corridor, Anticosti, Chaloupe No 1	D-Anticosti / Estuaire du St-Laurent	49.394306	-62.447056	Ralex Inc.	1999	1999
+D014-R1	Shell Encal Corridor, Anticosti, Chaloupe No 1	D-Anticosti / Estuaire du St-Laurent	49.394306	-62.447056	Patriot Well Service of Canada Inc.	2004	2004
+D015	Shell Encal Corridor, Anticosti, Saumon No 1	D-Anticosti / Estuaire du St-Laurent	49.394278	-62.368417	Ralex Inc.	1999	1999
+D016	Shell Encal Corridor, Anticosti, Dauphine No 1	D-Anticosti / Estuaire du St-Laurent	49.338306	-62.236639	Ralex Inc.	1999	1999
+D017	Corridor/HQ, Anticosti, Chaloupe No 1	D-Anticosti / Estuaire du St-Laurent	49.394944	-62.434833	Doubil Inc.	2005	2005
+D018	HQ/Corridor, Anticosti, MacDonald No 1	D-Anticosti / Estuaire du St-Laurent	49.700694	-62.998861	Doubil Inc.	2005	2005
+D019	Corridor/HQ, Anticosti, Jupiter No 1	D-Anticosti / Estuaire du St-Laurent	49.592556	-63.416944	Doubil Inc.	2005	2005
+D019-R1	Corridor/HQ, Anticosti, Jupiter No 1	D-Anticosti / Estuaire du St-Laurent	49.592556	-63.416944	Nabors Drilling Ltd.	2010	2010
+D020	Pétrolia/Corridor, Anticosti, Chaloupe No. 1	D-Anticosti / Estuaire du St-Laurent	49.3675	-62.540417	Nabors Drilling Ltd.	2010	2010
+D021	Corridor/Pétrolia, Anticosti, Saumon No. 1	D-Anticosti / Estuaire du St-Laurent	49.396139	-62.375028	Nabors Drilling Ltd.	2010	2010
+DZ001	Pétrolia, Sondage No 2, High-Cliff	D-Anticosti / Estuaire du St-Laurent	49.778861	-63.883222		2012	2012
+DZ002	Pétrolia, Sondage No 4, Princeton Lake	D-Anticosti / Estuaire du St-Laurent	49.893889	-64.266		2012	2012
+DZ003	Pétrolia, Sondage No 1, Oil River	D-Anticosti / Estuaire du St-Laurent	49.771139	-63.351389		2012	2012
+DZ004	Hydrocarbures Anticosti SEC, Jupiter-24 No 1	D-Anticosti / Estuaire du St-Laurent	49.638361	-63.433389		0	0
+DZ005	Hydrocarbures Anticosti SEC, Ste-Marie No 1	D-Anticosti / Estuaire du St-Laurent	49.755556	-63.883278		0	0
+DZ006	Hydrocarbures Anticosti SEC, Caribou No 1	D-Anticosti / Estuaire du St-Laurent	49.724222	-63.908389		0	0
+DZ007	Hydrocarbures Anticosti SEC, Canard No 1	D-Anticosti / Estuaire du St-Laurent	49.683056	-63.914306		0	0
+DZ008	Hydrocarbures Anticosti SEC, Cerf-Sau No 1	D-Anticosti / Estuaire du St-Laurent	49.237583	-62.480139		0	0
+DZ009	Hydrocarbures Anticosti SEC, Martin-La-Mer No 1	D-Anticosti / Estuaire du St-Laurent	49.283611	-62.796		0	0
+DZ010	Hydrocarbures Anticosti SEC, Lac Martin No 1	D-Anticosti / Estuaire du St-Laurent	49.358278	-62.876056		0	0
+DZ011	Hydrocarbures Anticosti SEC, Bell No 1	D-Anticosti / Estuaire du St-Laurent	49.151111	-62.201389		0	0
+DZ012	Hydrocarbures Anticosti SEC, Chicotte No 1	D-Anticosti / Estuaire du St-Laurent	49.449417	-63.135833		0	0
+DZ013	Hydrocarbures Anticosti SEC, Lac-du-Renard No 1	D-Anticosti / Estuaire du St-Laurent	49.199472	-62.068056		0	0
+DZ014	Hydrocarbures Anticosti SEC, Satellite-North No 1	D-Anticosti / Estuaire du St-Laurent	49.525083	-63.283611		0	0
+DZ015	Hydrocarbures Anticosti SEC, Jupiter-South No 1	D-Anticosti / Estuaire du St-Laurent	49.576417	-63.434167		0	0
+DZ016	Hydrocarbures Anticosti SEC, Cheval No 1	D-Anticosti / Estuaire du St-Laurent	49.640194	-63.387278		0	0
+DZ017	Hydrocarbures Anticosti SEC, NACP West No 1	D-Anticosti / Estuaire du St-Laurent	49.643472	-63.557583		0	0
+DZ018	Hydrocarbures Anticosti SEC, Roliff-Graben No 1	D-Anticosti / Estuaire du St-Laurent	49.544444	-63.344444		0	0
+E001	Cayouette No 1	E-Nord du Québec	48.46475	-72.188194		1909	1909
+E002	Cayouette No 2	E-Nord du Québec	48.462028	-72.18625		1909	1909
+E003	Chambord No 1	E-Nord du Québec	48.436861	-72.073361	Parco Drilling and Exploration Ltd.	1954	1954
+E004	Chambord No 2	E-Nord du Québec	48.423167	-71.928	Allard Brothers	1954	1954
+E005	Racine No 3	E-Nord du Québec	48.844944	-72.198722		1954	1954
+E006	Gérard Fortin	E-Nord du Québec	48.816722	-72.048528	Lucien Pelchat	1954	1954
+E007	Maria C No 1	E-Nord du Québec	48.905056	-71.927889	T.E. Larocque	1955	1955
+E008	Saguenay Lake Saint-John No 1	E-Nord du Québec	48.500056	-72.41625	Henri Dubé	1945	1946
+E009	B & S No 1, Chambord	E-Nord du Québec	48.418944	-71.9715	Boyles Brothers Ltd	1962	1962
+E010	B & S No 2, Chambord	E-Nord du Québec	48.423944	-71.9715	Boyles Brothers Ltd	1962	1962
+E011	GHK, Les Éboulements No 1	E-Nord du Québec	47.485417	-70.333528	Les Forages Kennebec Ltée	1990	1990
+E012	Baie-Saint-Paul No 1	E-Nord du Québec	47.435833	-70.491111	Louis Morency	1960	1960
+EZ01	Sept-Iles	E-Nord du Québec	50.212833	-66.305778	Denis Proulx	1970	1970
+F000	Kamouraska No 1	F-Bas St-Laurent	47.664722	-69.729444	Les Forages Gaspésiens Ltée	1973	1973
+F001	Great Plains Noël Shell No 1, Parke	F-Bas St-Laurent	47.607167	-69.456889	General Petroleum Ltd	1972	1972
+F002	SOQUIP, Parke No 1	F-Bas St-Laurent	47.616472	-69.453806	Regent Drilling Ltd.	1979	1979
+F003	SOQUIP, Parke No 2	F-Bas St-Laurent	47.604389	-69.435361	Regent Drilling Ltd.	1980	1980
+F004	GHK, Ile aux Coudres No 1	F-Bas St-Laurent	47.387528	-70.399528	Les Forages Kennebec Ltée	1990	1990
+F005	SOQUIP Lac Noir No 1, Neigette (C091)	F-Bas St-Laurent	48.351417	-68.313361	Regent Drilling Ltd.	1974	1974
+FZ002	SQX #02	F-Bas St-Laurent	48.327528	-68.260528		2010	2010
+FZ003	SQX #07	F-Bas St-Laurent	48.211639	-68.245889		2010	2010
+FZ004	SQX #08	F-Bas St-Laurent	48.187556	-68.439972		2010	2010
+FZ005	SQX #09	F-Bas St-Laurent	48.1175	-68.401667		2010	2010
+FZ01	Saint-Jean-de-Bréboeuf	F-Bas St-Laurent	48.700056	-67.543889	Inspiration Mining and Development Co. Ltd.	1938	1938
+G001	Sarep H.Q., Brion Island No 1	G-Golfe du St-Laurent	47.798333	-61.436667	Peter Bawden Drilling Services Ltd	1970	1970
+G002	Shell SOQUIP Amoco, Bradelle L-49	G-Golfe du St-Laurent	47.975833	-63.118333	Southeastern Commonwealth Drilling Ltd	1973	1973
+G003	Corridor, Iles-de-la-Madeleine, Fatima No 1	G-Golfe du St-Laurent	47.426389	-61.868917	Major Drilling Group International Inc.	1999	1999
+GZ01	Hydro-Québec Gulf No 1	G-Golfe du St-Laurent	47.928944	-62.089583	Caldrill Offshore Inc.	1965	1965
+GZ02	Hydro-Québec Gulf No 2	G-Golfe du St-Laurent	47.650611	-63.182639	Caldrill Offshore Inc.	1965	1965
+GZ03	Hydro-Québec Gulf No 2A	G-Golfe du St-Laurent	47.650611	-63.182639	Caldrill Offshore Inc.	1965	1965
+GZ04	Hydro-Québec Gulf No 4	G-Golfe du St-Laurent	48.250056	-63.374306	Caldrill Offshore Inc.	1965	1965
+GZ05	Hydro-Québec Gulf No 4A	G-Golfe du St-Laurent	48.250056	-63.374306	Caldrill Offshore Inc.	1965	1965
+GZ06	SOQUEM, Grosse Île (M-1)	G-Golfe du St-Laurent	47.620972	-61.550861		1973	1973
+GZ07	SOQUEM, Grosse Île (M-4)	G-Golfe du St-Laurent	47.617111	-61.5165		1973	1973
+GZ08	SOQUEM, Île de la Grande Entrée (M-5)	G-Golfe du St-Laurent	47.552278	-61.506472		1973	1973
+GZ09	SOQUEM, Grosse Île (M-6)	G-Golfe du St-Laurent	47.623278	-61.492583		1973	1973
+GZ10	SOQUEM, Grosse Île (M-8)	G-Golfe du St-Laurent	47.615194	-61.499917		1974	1974
+GZ11	SOQUEM, Île du Havre-Aubert (M-11)	G-Golfe du St-Laurent	47.218028	-61.983167		1974	1974
+GZ12	SOQUEM, Île du Havre-Aubert (DDH #1)	G-Golfe du St-Laurent	47.216722	-61.851806		1972	1972
+GZ13	SOQUEM, Île du Havre-Aubert (DDH #4)	G-Golfe du St-Laurent	47.224222	-61.82375		1972	1972
+GZ14	SOQUEM, Île du Havre-Aubert (DDH #9)	G-Golfe du St-Laurent	47.221444	-61.829028		1972	1972
