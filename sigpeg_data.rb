@@ -213,7 +213,7 @@ listePuits.each do |noPuits|
 		if fiche.at_css("td.entete2 a")
 			noPuitsReentre = noPuits + "-R1"
 			sigpegAccueil.execute_script('ouvrir("ficheDescriptive?type=popup&mode=ficheReent&cle=' + noPuitsReentre + '&cleReentre=' + noPuitsReentre + '&menu=puit&ong_active=ongl_descriptive","FicheReentre","850","650");')
-			sigpegAccueil.window(:index, 3).use do
+			sigpegAccueil.window(:url => /#{noPuitsReentre}/).use do
 
 				fiche = Nokogiri::HTML(sigpegAccueil.html)
 				donneesPuits = {}
